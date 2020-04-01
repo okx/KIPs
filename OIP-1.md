@@ -262,7 +262,7 @@ The editors don't pass judgment on OIPs. We merely do the administrative & edito
 
 ## History
 
-This document was derived heavily from [OKChain's OIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OKChain Improvement Process, and should not be bothered with technical questions specific to OKChain or the OIP. Please direct all comments to the OIP editors.
+This document was derived heavily from [Ethereum's EIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OKChain Improvement Process, and should not be bothered with technical questions specific to OKChain or the OIP. Please direct all comments to the OIP editors.
 
 
 
@@ -277,7 +277,7 @@ See [the revision history for further details](https://github.com/okex/OIPs/comm
 [pull request]: https://github.com/okex/OIPs/pulls
 [the Issues section of this repository]: https://github.com/okex/OIPs/issues
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[OKChain's OIP-0001]: https://oips.okchain.org/OIPS/oip-1
+[Ethereum's EIP-0001]: https://eips.ethereum.org/EIPS/eip-1
 [Python's PEP-0001]: https://www.python.org/dev/peps/
 [AllCoreDevs agenda GitHub Issue]: https://github.com/okex/okchain-pm/issues
 
