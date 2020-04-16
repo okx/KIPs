@@ -1,7 +1,7 @@
 # OKChain Improvement Proposals (OIPs)
 OKChain Improvement Proposals (OIPs) describe standards for the OKChain platform, including core protocol specifications, client APIs, and contract standards.
 
-#Contributing
+# Contributing
 1.	Review OIP-1.
 2.	Fork the repository by clicking "Fork" in the top right.
 3.	Add your OIP to your fork of the repository. 
