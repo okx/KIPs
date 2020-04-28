@@ -218,25 +218,6 @@ It occasionally becomes necessary to transfer ownership of OIPs to a new champio
 
 If you are interested in assuming ownership of an OIP, send a message asking to take over, addressed to both the original author and the OIP editor. If the original author doesn't respond to email in a timely manner, the OIP editor will make a unilateral decision (it's not like such decisions can't be reversed :)).
 
-## OIP Editors
-
-The current OIP editors are
-
-` * Nick Johnson (@arachnid)`
-
-` * Casey Detrio (@cdetrio)`
-
-` * Hudson Jameson (@Souptacular)`
-
-` * Vitalik Buterin (@vbuterin)`
-
-` * Nick Savers (@nicksavers)`
-
-` * Martin Becze (@wanderer)`
-
-` * Greg Colvin (@gcolvin)`
-
-` * Alex Beregszaszi (@axic)`
 
 ## OIP Editor Responsibilities
 
