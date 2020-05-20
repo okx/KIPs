@@ -1,4 +1,4 @@
----
+<!--
 OIP: 1
 title: OIP Purpose and Guidelines
 status: Active
@@ -6,7 +6,8 @@ type: Meta
 author: OKChain core developers <okchain@okcoin.net> 
 created: 2020-04-01
 updated: 2020-04-01
----
+-->
+
 # OIP-1
 
 ## What is an OIP?
