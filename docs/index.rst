@@ -70,6 +70,7 @@ Contents
    :maxdepth: 3
    :caption: Draft
 
+   draft/OIP-2
    draft/OIP-3
 
 .. toctree::
