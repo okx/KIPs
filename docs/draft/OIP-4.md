@@ -1,11 +1,11 @@
 # OIP-4: OKChain ＆ Kava Partnership proposal
 
-| Author   | Kava Labs (@KavaLabs) |
-| :------- | --------------------- |
-| Status   | Draft                 |
-| Type     | Standard Track        |
-| Category | Core                  |
-| Created  | June 2, 2020          |
+| Author   | Kava Labs (@Kava-Labs) |
+| :------- | ---------------------- |
+| Status   | Draft                  |
+| Type     | Standard Track         |
+| Category | Core                   |
+| Created  | June 2, 2020           |
 
 ## Introduction
 
