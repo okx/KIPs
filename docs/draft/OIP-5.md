@@ -15,6 +15,11 @@
 
 Vite users are distributed in 180 countries around the world, with a community size of over 200,000, wallet daily active users of 20,000, 50 supernodes, and over 1500 full nodes. The Vite team was established in June 2018, with a founding team of technical and financial experts from China and the United States. Vite raised capital from Bitmain, OK Capital, Node Capital, Link VC, Genesis Capital, and other well-known funds. Vite Mainnet was launched on September 25, 2019.
 
+Vite Labs:
+
+- https://vite.org
+- https://github.com/vitelabs
+
 ### About OKChain
 
 [OKChain](https://www.okex.com/okchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
@@ -24,11 +29,6 @@ OKChain and Vite hold common visions in public chain governance, ecosystem build
 This decentralization model for the community will democratize the trading platform, and will benefit the future growth of the entire blockchain world.
 
 OKChain: https://www.okex.com/okchain
-
-Vite Labs:
-
-- https://vite.org
-- https://github.com/vitelabs
 
 ## Details of Plan
 As an ecosystem partner, Vite will cooperate with OKChain in the following aspects:
