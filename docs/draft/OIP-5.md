@@ -36,4 +36,5 @@ In terms of governance, OKChain adopts the super node election rules and dividen
 ![image](/docs/assets/OIP-5/func-struct.png)
 
 #### 1.3 Solution
+
 OKChain is completely open source and provides developers with the corresponding SDK and JSON-RPC. By docking with OKChain SDK, we can verify the user’s wallet address authority, verify it through the signature information and public key, and assign permissions to the current user, as well as obtain the user’s voting records, accumulated income, income dividends and other information, through JSON-RPC service Obtain node information, display the node list, distinguish super nodes and candidate nodes from UI interaction, and display the node's block revenue, users can choose the node they like. In addition, it also provides good support for proxy voting, which will meet the diverse needs of users.
