@@ -1,3 +1,4 @@
+
 # OIP-5: OKChain ＆ Vite Partnership proposal
 
 | Author   | Vite Labs (@vitelabs) |

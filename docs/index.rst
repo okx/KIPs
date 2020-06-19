@@ -72,6 +72,7 @@ Contents
 
    draft/OIP-2
    draft/OIP-3
+   draft/OIP-4
 
 .. toctree::
    :maxdepth: 3
