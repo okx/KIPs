@@ -1,4 +1,4 @@
-**OKChain & Tokenview Partnership Proposal**
+# OKChain & Tokenview Partnership Proposal
 **Introduction**
 ### About Tokenview
 Tokenview（https://tokenview.com/） is the Largest multi-crypto blockchain data platform in the current blockchain market. As the leading blockchain services provider, Tokenview is building blockchain infrastructure through its technical advantages and operational strength and providing one-stop blockchain services to promote the development and application of blockchain technology.
@@ -20,7 +20,6 @@ Secure, stable, and easy-to-use. ViewToken integrates wallet feature including B
 
 ### Cooperation Plan*  
 **Tokenview will develop the okb.tokenview.com blockchain explorer**
-The support of third-party block explorer will make OKChain's data on the chain more transparent and conven convincible, our multiple nodes can also realize multi-directional data verification. The explorer will not only support the function of basic data query, it also includes more in-depth data analysis, like charts, pending transactions, OKB whale tracking, OKB rich list, etc.
-
+The support of third-party block explorer will make OKChain's data on the chain more transparent and conven convincible, our multiple nodes can also realize multi-directional data verification. The explorer will not only support the function of basic data query, it also includes more in-depth data analysis, like charts, pending transactions, OKB whale tracking, OKB rich list, etc.  
 **The Wallet ViewToken supports OKB**
 ViewToken multi-currency wallet is safe, stable, and easy to use. It supports BTC, ETH, USDT, TRX, BCH, BSV, ETC, LTC, DOGE, DASH, NEO, GAS, and ERC20, NEP5 and other thousands of cryptocurrency assets, with bank-level security technology, multiple verification of login, multiple signatures to ensure transaction security. ViewToken will support OKB wallet address generation and OKB transfer.
