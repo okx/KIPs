@@ -18,9 +18,9 @@ We provide block chain API and node servicse for more than 100 enterprises. Real
 Wallet  
 Secure, stable, and easy-to-use. ViewToken integrates wallet feature including BTC, ETH, USDT, TRON, BCH, BSV, ETH, LTC, DOGE, DASH, NEO, and ERC20&NEP5 tokens. Bank-level security technology with multi-verification and multi-signature to ensure the security of transactions plus popular features like market forecasting and media news.
 
-### Cooperation Plan*  
-Tokenview will develop the okb.tokenview.com blockchain explorer
+### Cooperation Plan  
+Tokenview will develop the okb.tokenview.com blockchain explorer  
 The support of third-party block explorer will make OKChain's data on the chain more transparent and conven convincible, our multiple nodes can also realize multi-directional data verification. The explorer will not only support the function of basic data query, it also includes more in-depth data analysis, like charts, pending transactions, OKB whale tracking, OKB rich list, etc.  
 
-The Wallet ViewToken supports OKB
+The Wallet ViewToken supports OKB  
 ViewToken multi-currency wallet is safe, stable, and easy to use. It supports BTC, ETH, USDT, TRX, BCH, BSV, ETC, LTC, DOGE, DASH, NEO, GAS, and ERC20, NEP5 and other thousands of cryptocurrency assets, with bank-level security technology, multiple verification of login, multiple signatures to ensure transaction security. ViewToken will support OKB wallet address generation and OKB transfer.
