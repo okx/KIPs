@@ -1,17 +1,17 @@
-#OIP-12: OKChain ＆ Bi23 Labs Partnership proposal
+##OIP-12: OKChain ＆ Bi23 Labs Partnership proposal
 
 | Author   | Bi23 Labs |
 | :------- | ---------------- |
 | Status   | Draft            |
 | Created  | June 30, 2020    |
 
-## Introduction
+##Introduction
 Bi23 Labs is a trusted Proof-Of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards. we're now the 18th BP of OKChain.
 
 * Website: https://bi23.com/#/
 * Twitter: https://twitter.com/bi23com
 
-## Partnership proposal
+##Partnership proposal
 
 1, The comprehensive/real-time/multi-dementional OKChain data statistics provider, with diverse charts and OPEN-API.
 Different from the ordinary blockchain explorer, our explorer positioning biased in favor of statistical data analysis. it will display a wide variety of graphs, allowing users to more intuitive and clear understanding of the data.
