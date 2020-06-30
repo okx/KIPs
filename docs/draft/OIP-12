@@ -11,7 +11,9 @@ Bi23 Labs is a trusted Proof-Of-Stake infrastructure provider and validator to c
 
 1, The comprehensive/real-time/multi-dementional OKChain data statistics provider, with diverse charts and OPEN-API.
 
-Different from the ordinary blockchain explorer, our explorer positioning biased in favor of statistical data analysis. it will display a wide variety of graphs, allowing users to more intuitive and clear understanding of the data. This explorer is composed of modules such as Dashboard/ Bp lists and details / Accounts / Open API and so on, so as to provide a comprehensive data service.
+Different from the ordinary blockchain explorer, our explorer positioning biased in favor of statistical data analysis. it will display a wide variety of graphs, allowing 
+users to more intuitive and clear understanding of the data. This explorer is composed of modules such as Dashboard/ Bp lists and details / Accounts / Open API and so on, 
+so as to provide a comprehensive data service.
 
 2, The telegram/email alerting bot.
 
