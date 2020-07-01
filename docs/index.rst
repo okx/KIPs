@@ -75,8 +75,13 @@ Contents
    draft/OIP-4
    draft/OIP-5
    draft/OIP-6
+   draft/OIP-7
    draft/OIP-8
    draft/OIP-9
+   draft/OIP-10
+   draft/OIP-11
+   draft/OIP-12
+   draft/OIP-13
 
 .. toctree::
    :maxdepth: 3
