@@ -1,6 +1,6 @@
 # OIP-12: OKChain ＆ Bi23 Labs Partnership proposal
 
-| Author        |  Bi23 Labs     |
+| Author        | Bi23 Labs      |
 | ------------- | -------------  |
 | Status        | Draft          |
 | Created       | July 1th, 2020 |
