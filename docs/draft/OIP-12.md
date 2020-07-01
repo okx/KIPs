@@ -1,4 +1,4 @@
-OIP-12: OKChain ＆ Bi23 Labs Partnership proposal
+#** OIP-12: OKChain ＆ Bi23 Labs Partnership proposal ** 
 
 Introduction
 Bi23 Labs is a trusted Proof-Of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards. we're now the 18th BP of OKChain.
