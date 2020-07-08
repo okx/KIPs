@@ -73,9 +73,9 @@ Transfer transaction is to send tokens from FromAddress to ToAddress.
 
 | **Field**        | **Type** | **Description**                                              |
 | ---------------- | -------- | ------------------------------------------------------------ |
-| MinLiquidity     | Dec      | Minimum number of sender will mint if total pool token supply is greater than 0. |
-| MaxBaseAmount    | Coin     | Maximum number of tokens deposited. Deposits max amount if total pool token supply is 0. |
-| QuoteAmount      | Coin     | The number of native token deposited.                        |
+| FromAddress      | address  | The address you sent a token from                            |
+| ToAddress        | address  | The address you sent a token to |
+| Amount           | String   | It is the amount you want to transfer plus the token symbol. Like "100OKT". Amount should be  positive and can have a maximum of 8 digits of decimal and is boosted by 1e8 in order to store as int64.                        |
 
 
 **Add Liquidity Process:**
