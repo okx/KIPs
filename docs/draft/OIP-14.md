@@ -4,7 +4,7 @@
 | :------- | --------------------- |
 | Status   | Draft                 |
 | Type     | Standard Track        |
-| Category | Core                  |
+| Category | Core1                  |
 | Created  | 2020-5-12             |
 
 ## 1. Summary
