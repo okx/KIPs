@@ -78,57 +78,52 @@ Transfer transaction is to send tokens from FromAddress to ToAddress.
 | Amount           | String   | It is the amount you want to transfer plus the token symbol. Like "100OKT". Amount should be  positive and can have a maximum of 8 digits of decimal and is boosted by 1e8 in order to store as int64.                        |
 
 
-**Add Liquidity Process:**
+**Transfer Process:**
 
-- Market Makers sign an Add Liquidity transaction and make it broadcasted to one of OKChain nodes
+- Transfer initiators sign a transfer transaction and make it broadcasted to one of OKChain nodes
 - The OKChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKChain nodes
-- Add Liquidity transaction is committed on the blockchain by block proposer
-- Validators will verify the constraints on balance. The transfer tokens and fee will be deducted from the address of the transaction initiator
-- Add the tokens to the module account address. Mint pool token with the amount of Ratio of total pool assets and add to the Market Makers addresses and token pair info is updated on the OKChain
+- Transfer transaction is committed on the blockchain by block proposer
+- Validators will verify the constraints on balance. The transfer tokens and fee will be deducted from the address of the transaction initiators.
+- Add the tokens to the destination addresses
 
-#### 5.3.3 Remove Liquidity
+#### 5.3.3 Mint Tokens
 
-Remove Liquidity transaction is to send pool tokens from market makers addresses to module addresses. Meanwhile, associated token pair pool is reduced.
+Mint transaction is to increase the total supply of a mintable token. The transaction initiator must be the token owner.
 
-**Message Structure for Remove Liquidity Operation**: A message structure is needed to represent the Remove Liquidity operation.
+**Data Structure for Mint Operation**: A Data structure is needed to represent the mint operation.
 
 | **Field**        | **Type** | **Description**                                              |
 | ---------------- | -------- | ------------------------------------------------------------ |
-| Liquidity        | Coin     | The number of pool tokens sender will burn.                  |
-| MinBaseAmount    | Coin     | Minimum base tokens withdrawn.                               |
-| MinQuoteAmount   | Coin     | Minimum quote tokens withdrawn.                              |
-| DeadlineDuration | int64    | Deadline Time after which this transaction can no longer be executed.  such as "300ms", "1.5h" or "2h45m". Valid time units are "ns", "us" (or "µs"), "ms", "s", "m", "h"." |
-| From             | Address  | Address for token holders                                    |
+| Amount           | String   | It is the amount you want to mint plus the token symbol. Like "100000OKT". Amount should be  positive and can have a maximum of 8 digits of decimal and is boosted by 1e8 in order to store as int64.                 |
+| Owner            | Address  | The initial issuer of this token                               |
 
-**Remove Liquidity Process:**
+**Mint Process:**
 
-- Market Makers sign a Remove Liquidity transaction and make it broadcasted to one of OKChain nodes
+- Token owner signs a mint transaction and makes it broadcasted to one of OKChain nodes
 - The OKChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKChain nodes
-- Remove Liquidity transaction is committed on the blockchain by block proposer
-- Validators will verify the constraints on balance. The transfer tokens and fee will be deducted from the address of transaction initiator
-- Burned pool token are deducted from the address of the token owner. Add the tokens amount is Ratio of total pool assets to the Market Makers addresses and token pairs info is updated on the OKChain
+- Mint transaction is committed on the blockchain by block proposer
+- Validators will verify the constraints on whether the token is mintable and whether the bumped total supply will pass the limit. Then increase its total supply and deduct the fee from the address of the token owner
+- Newly minted tokens are added to the address of the token owner and token info is updated on the OKChain
 
-#### 5.3.4 Swap Token
+#### 5.3.4 Burn Tokens
 
-Swap Token transaction is exchange one kind of token to another.
+Burn transaction is to reduce the total supply of a token. The transaction initiator must be the token owner.
 
-**Message Structure for Swap Token Operation**: A message structure is needed to represent the Swap Token operation.
+**Data Structure for Burn Operation**: A Data structure is needed to represent the burn operation.
 
 | **Field**            | **Type** | **Description**                                              |
 | -------------------- | -------- | ------------------------------------------------------------ |
-| SoldTokenAmount      | Coin     | The amount of tokens sold.                                   |
-| MinBoughtTokenAmount | Coin     | Minimum tokens bought.                                       |
-| DeadlineDuration     | int64    | Deadline Time after which this transaction can no longer be executed. such as "300ms", "1.5h" or "2h45m". Valid time units are "ns", "us" (or "µs"), "ms", "s", "m", "h"." |
-| Recipient            | Address  | Address for token receiver                                   |
-| From                 | Address  | Address for token holders                                    |
+| Amount               | string   | It is the amount you want to mint plus the token symbol. Like "100000OKT". Amount should be  positive and can have a maximum of 8 digits of decimal and is boosted by 1e8 in order to store as int64.                                   |
+| Owner                | address  | The initial issuer of this token.                                      |
 
-**Swap Token Process:**
 
-- Address-holder sign a swap token transaction and make it broadcasted to one of OKChain nodes
+**Burn Process:**
+
+- Token owner signs a burn transaction and makes it broadcasted to one of OKChain nodes
 - The OKChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKChain nodes
-- Swap token transaction is committed on the blockchain by block proposer
-- Validators will verify the constraints on balance. The sold tokens and fee will be deducted from the address of transaction initiator
-- Add the bought tokens to the transaction initiator's address or recipient address if it's accomplished. 
+- Burn transaction is committed on the blockchain by block proposer
+- Validators will verify the constraints if the token’s supply is no less than the required amount, and then it decreases the total supply and deducts the fee from the address of the token owner
+- Burned tokens are deducted from the address of the token owner and token info is updated on the OKChain
 
 ## 6. License
 
