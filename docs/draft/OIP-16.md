@@ -1,7 +1,7 @@
 # OIP-3: Tokens on OKChain
 
 | Author   | Ocean Fan (@OKChain)  |
-| :------- | --------------------- |
+| -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |
 | Category | Core                  |
