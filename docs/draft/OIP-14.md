@@ -1,15 +1,15 @@
-# OIP-3: Token Swap
+# OIP-3: Tokens on OKChain
 
-| Author   | William Liu(@OKChain) |
+| Author   | Ocean Fan (@OKChain)  |
 | :------- | --------------------- |
-| Status   | Draft                 |
+| Status   | Implemented           |
 | Type     | Standard Track        |
-| Category | Core1                  |
-| Created  | 2020-5-12             |
+| Category | Core                  |
+| Created  | 2020-7-8              |
 
 ## 1. Summary
 
-This OIP is about introducing on-chain market maker and further mechanism to swap tokens immediately without matching procedure on-chain.
+This OIP is a proposal for token management on the OKChain.
 
 ## 2. Abstract­
 
