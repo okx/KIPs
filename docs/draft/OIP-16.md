@@ -1,4 +1,4 @@
-# OIP-3: Tokens on OKChain
+# OIP-16: Tokens on OKChain
 
 | Author   | Ocean Fan (@OKChain)  |
 | -------  | --------------------- |
