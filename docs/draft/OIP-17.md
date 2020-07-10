@@ -18,21 +18,34 @@
 ONE：集成区块链社交，多链钱包，去中心交易所的手机App。
 
 社交：用户上链，所有数据端到端加密，像比特币一样安全。同时支持超级群组沟通。
-
 钱包：一套助记词支持所有公链，支持中文助记词。目前已经支持：OneChain，BTC，ETH，EOS，Bitshares，RChain等十多条公链。
-
 交易：集成多个去中心交易所，目前已经支持：OneChain DEX，Newdex，Bitshares DEX等。
 
-[ONE下载地址](http://app.onechain.one/appstart.html)
+[ONE正式版下载](http://app.onechain.one/appstart.html)
 
 ## OneChain和OkChain的合作计划
 
-**ONE**新版已经完成OKChain的测试网对接，社交支持OKChain的用户之间沟通交流，钱包支持OKChain的所有代币，交易支持OKChain的所有交易对，同时，支持OKChain的staking投票，方便用户参与OKChain生态。
+**ONE**新版已经完成OKChain的测试网对接。社交支持OKChain的用户之间沟通交流，钱包支持OKChain的所有代币，交易支持OKChain的所有交易对，同时，支持OKChain的staking投票，方便用户参与OKChain生态。
 
-[ONE支持OkChain Demo](http://app1.haoduobi.cn/android/one310.apk)
+钱包：
+ - 添加删除Token
+ - 发送，接收Token。
+ - 交易历史
+ - 投票
+
+交易：
+ - 下单，撤单
+ - 订单列表
+ - 资产列表
+ - K线
+
+[ONE支持OkChain Demo下载](http://app1.haoduobi.cn/android/one310.apk)
 
 [ONE支持OkChain 使用帮助](https://github.com/onechainone/OIPs/wiki)
 
+
+## 项目状态
+已经完成OKChain的测试网对接，OkChain主网上线后会第一时间对接上线。
 
 **OneChain** is the first _Decentralized Exchange_ based on **OKChain**, built and made open source by **BitSong**.
 
