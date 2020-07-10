@@ -15,7 +15,7 @@
 
 ## ONE介绍
 
-ONE：ONE是OneChain提供的一款手机APP，集成区块链社交，多链钱包，去中心交易所。
+ONE：ONE是OneChain提供的一款手机APP，集成了区块链社交，多链钱包，去中心交易所，方便用户使用。
 
 - 社交：用户上链，所有数据端到端加密，像比特币一样安全。同时支持超级群组沟通。
 - 钱包：一套助记词支持所有公链，支持中文助记词。目前已经支持：OneChain，BTC，ETH，EOS，Bitshares，RChain等十多条公链。
@@ -36,6 +36,7 @@ ONE：ONE是OneChain提供的一款手机APP，集成区块链社交，多链钱
 
 交易：
  - 下单，撤单
+ - 交易对管理
  - 订单列表
  - 资产列表
  - K线
@@ -43,7 +44,7 @@ ONE：ONE是OneChain提供的一款手机APP，集成区块链社交，多链钱
 
 [ONE支持OkChain Demo下载](http://app1.haoduobi.cn/android/one310.apk): 正在进行最后测试以及细节优化，7月20日前提供下载。
 
-[ONE支持OkChain 使用帮助](https://github.com/onechainone/OIPs/wiki)
+[ONE支持OkChain 使用帮助](https://github.com/onechainone/OIPs/wiki)：帮助文档正在制作中。
 
 
 ## 项目状态
