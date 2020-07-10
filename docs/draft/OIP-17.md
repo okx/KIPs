@@ -6,9 +6,35 @@
 | Category | Application              |
 | Created  | 2020-7-9                |
 
-## Introduction
+## OneChain介绍
 
-**ONE** is the first _Decentralized Exchange_ based on **OKChain**, built and made open source by **BitSong**.
+**OneChain**是全球第一个社交链，由“ONECHAIN基金会”开发运营，主链于2018年1月15日上线。OneChain通过集成区块链的社交+钱包+交易应用，保护用户隐私安全、资产安全、交易安全。不断提高易用性，降低用户门槛，方便人人使用数字货币。
+
+[OneChain官网](http://www.onechain.one)
+
+
+## ONE介绍
+
+ONE：集成区块链社交，多链钱包，去中心交易所的手机App。
+
+社交：用户上链，所有数据端到端加密，像比特币一样安全。同时支持超级群组沟通。
+
+钱包：一套助记词支持所有公链，支持中文助记词。目前已经支持：OneChain，BTC，ETH，EOS，Bitshares，RChain等十多条公链。
+
+交易：集成多个去中心交易所，目前已经支持：OneChain DEX，Newdex，Bitshares DEX等。
+
+[ONE下载地址](http://app.onechain.one/appstart.html)
+
+## OneChain和OkChain的合作计划
+
+**ONE**新版已经完成OKChain的测试网对接，社交支持OKChain的用户之间沟通交流，钱包支持OKChain的所有代币，交易支持OKChain的所有交易对，同时，支持OKChain的staking投票，方便用户参与OKChain生态。
+
+[ONE支持OkChain Demo](http://app1.haoduobi.cn/android/one310.apk)
+
+[ONE支持OkChain 使用帮助](https://github.com/onechainone/OIPs/wiki)
+
+
+**OneChain** is the first _Decentralized Exchange_ based on **OKChain**, built and made open source by **BitSong**.
 
 **ONE** is an open source project, its mission is to facilitate the adoption and implementation of more decentralized exchanges based on **OKChain**.
 
