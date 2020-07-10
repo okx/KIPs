@@ -1,4 +1,4 @@
-# ONE mobile App by OneChain
+# OIP-17：OneChain为OkChain提供ONE手机钱包
 
 | Author   | onechainone (@onechainone) |
 | -------- | ------------------------ |
@@ -15,12 +15,10 @@
 
 ## ONE介绍
 
-ONE：集成区块链社交，多链钱包，去中心交易所的手机App。
+ONE：ONE是OneChain提供的一款手机APP，集成区块链社交，多链钱包，去中心交易所。
 
 社交：用户上链，所有数据端到端加密，像比特币一样安全。同时支持超级群组沟通。
-
 钱包：一套助记词支持所有公链，支持中文助记词。目前已经支持：OneChain，BTC，ETH，EOS，Bitshares，RChain等十多条公链。
-
 交易：集成多个去中心交易所，目前已经支持：OneChain DEX，Newdex，Bitshares DEX等。
 
 [ONE正式版下载](http://app.onechain.one/appstart.html)
@@ -43,7 +41,7 @@ ONE：集成区块链社交，多链钱包，去中心交易所的手机App。
  - K线
  - 订单深度
 
-[ONE支持OkChain Demo下载](http://app1.haoduobi.cn/android/one310.apk)
+[ONE支持OkChain Demo下载](http://app1.haoduobi.cn/android/one310.apk): 正在进行最后测试以及细节优化，7月20日前提供下载。
 
 [ONE支持OkChain 使用帮助](https://github.com/onechainone/OIPs/wiki)
 
