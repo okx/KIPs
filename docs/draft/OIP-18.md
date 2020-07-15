@@ -34,7 +34,7 @@ FEATURES
 http://www.mathwallet.org
 
 ## Demo & Sources
-[Demo Preview](http://developer.mathwallet.org/okchain/#/transfer)
+[Demo Preview](http://developer.mathwallet.org/okchain)
 
 [Demo Code](https://github.com/mathwallet/math-okchain-js)
 
