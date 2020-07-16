@@ -22,7 +22,7 @@ FEATURES
 
 - Easily send tokens. 
 
-[Math Wallet](http://www.mathwallet.org)
+[Math Wallet](https://www.mathwallet.org)
 
 ## Summary
 
@@ -31,10 +31,10 @@ FEATURES
 - dApp broswer
 
 ## Download
-http://www.mathwallet.org
+https://www.mathwallet.org
 
 ## Demo & Sources
-[Demo Preview](http://developer.mathwallet.org/okchain)
+[Demo Preview](https://developer.mathwallet.org/okchain)
 
 [Demo Code](https://github.com/mathwallet/math-okchain-js)
 
