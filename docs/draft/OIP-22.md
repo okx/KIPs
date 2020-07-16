@@ -1,4 +1,4 @@
-# OIP-21：Extension Wallet & App Wallet & dApp 
+# OIP-22：Extension Wallet & App Wallet & dApp 
 
 | Author   | Forrest Yu (@mathwallet) |
 | -------- | ------------------------ |
