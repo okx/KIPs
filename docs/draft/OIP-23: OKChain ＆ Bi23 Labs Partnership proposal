@@ -18,12 +18,12 @@ To know more about Bi23 Labs, visit our official media below:
 As a technical team ,we hope to provide technical support for OKChain. Here're what we're planning to do:
 
 
-1,The comprehensive/real-time/multi-dementional OKChain data statistics provider with diverse charts and OPEN-API.
+### 1,The comprehensive/real-time/multi-dementional OKChain data statistics provider with diverse charts and OPEN-API.
 
 Different from the ordinary blockchain explorer, our explorer is more biased towards data analysis and statistics. It will display a wide variety of graphs, allowing 
 users to more intuitive and clear understanding of the on-chain data. This explorer will include but not limited to the following modules:Dashboard、Bp list、BP details、Accounts 、Open API、Governance and so on, so as to provide a comprehensive/real-time/multi-dementional OKChain data statistics service.
 
-2, The telegram/email alerting bot.
+### 2, The telegram/email alerting bot.
 
 With this robot, you can get a notification on telegram or your email when these things happened:
 
