@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-User can create their own token on OKChain and allow other user to trade it. But sometimes some tokens are lack of liquidity. User need a market maker robot to supply liquidity and make the tokens in fair value.
+User can create their own token on OKChain and allow other user to trade it. But sometimes some tokens are lack of liquidity. User need a market maker robot to supply liquidity and make the token in reasonable price.
 
 DEXMarketMaker can provide a simple market maker robot for user. User also can implment their own market maker with more details based on it.
 
