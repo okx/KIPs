@@ -22,9 +22,9 @@ This OIP aims to provide a market maker frameworker for okex dex.
 DEXMarketMaker is going to provide an open source, extendsible, and convenient framework for any user to implmenet their own customized market maker for okex dex with more details.
 It contains the following main models:
 
-a. Fair value module - The module is responsible to getting lasteast information and calculating fair value and market state
-b. Quote module - The module is responsible to manage buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders. 
-c. Exposure auto hedge module - The module is responsible to hedge exposure if the expose is going beyond of defined threshold
+#a. Fair value module - The module is responsible to getting lasteast information and calculating fair value and market state
+#b. Quote module - The module is responsible to manage buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders. 
+#c. Exposure auto hedge module - The module is responsible to hedge exposure if the expose is going beyond of defined threshold
 
 ## 4. Status
 
