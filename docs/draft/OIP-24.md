@@ -9,9 +9,9 @@
 
 ## 1. Introduction
 
-User can create their own token on OKChain and allow other users to trade it. But sometimes some tokens are lack of liquidity. User need a market maker robot to supply liquidity and make the token in reasonable price.
+User can create their own token on OKChain and allow other users to trade it. But sometimes the tokens are lack of liquidity.
 
-DEXMarketMaker can provide a simple market maker robot for user. User also can implment their own market maker with more details based on it.
+DEXMarketMaker can work as a simple market maker bot provide liquidity for specific token. User also can implment their own sophisticated market maker based on it to work as a profitable bot.
 
 ## 2. Summary
 
@@ -19,8 +19,7 @@ This OIP aims to provide a market maker frameworker for okex dex.
 
 ## 3. Proposal
 
-DEXMarketMaker is going to provide an open source, extendsible, and convenient framework for any user to implmenet their own customized market maker for okex dex with more details.
-It contains the following main models:
+DEXMarketMaker is going to provide an open source, extendsible, and convenient framework for any user to implmenet their own customized market maker for okex dex with more details. It contains the following main models:
 
 ### a. Fair value module
 
