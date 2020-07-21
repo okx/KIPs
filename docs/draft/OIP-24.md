@@ -19,19 +19,23 @@ This OIP aims to provide a market maker frameworker for okex dex.
 
 ## 3. Proposal
 
-DEXMarketMaker is going to provide an open source, extendsible, and convenient framework for any user to implmenet their own customized market maker for okex dex with more details. It contains the following main models:
+DEXMarketMaker is going to provide an open source, extendsible, and convenient framework for any user to implmenet their own customized market maker for okex dex with more details. It contains the following main components:
 
-### a. Fair value module
+#### a. Account management component
 
-The module is responsible for getting lasteast information and calculating fair value and market state
+The component is responsible for creating account and getting account info, etc.
 
-### b. Quote module
+#### b. Fair value component
 
-The module is responsible for managing buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders
+The component is responsible for getting lasteast information and calculating fair value and market state
 
-### c. Risk control module
+#### c. Quote component
 
-The module is responsible for risk control, include but not limited to hedge exposure, pnl monitoring, etc.
+The component is responsible for managing buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders
+
+#### d. Risk control component
+
+The component is responsible for risk control, include but not limited to hedge exposure, pnl monitoring, etc.
 
 ## 4. Status
 
