@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-User can create their own token on OKChain and allow other user to trade it. But sometimes some tokens are lack of liquidity. User need a market maker robot to supply liquidity and make the token in reasonable price.
+User can create their own token on OKChain and allow other users to trade it. But sometimes some tokens are lack of liquidity. User need a market maker robot to supply liquidity and make the token in reasonable price.
 
 DEXMarketMaker can provide a simple market maker robot for user. User also can implment their own market maker with more details based on it.
 
@@ -24,15 +24,15 @@ It contains the following main models:
 
 ### a. Fair value module
 
-The module is responsible to getting lasteast information and calculating fair value and market state
+The module is responsible for getting lasteast information and calculating fair value and market state
 
 ### b. Quote module
 
-The module is responsible to manage buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders
+The module is responsible for managing buy and sell pending orders on market based on fair value and quote strategy. If the market state is abnormal, it should cancel all pending orders
 
-### c. Risk control module 
+### c. Risk control module
 
-The module is responsible to control risk, include but not limited to hedge exposure, pnl monitoring, etc.
+The module is responsible for risk control, include but not limited to hedge exposure, pnl monitoring, etc.
 
 ## 4. Status
 
