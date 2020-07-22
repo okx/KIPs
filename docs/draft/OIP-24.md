@@ -11,11 +11,11 @@
 
 User can create their own token on OKChain and allow other users to trade it. But sometimes the tokens are lack of liquidity.
 
-DEXMarketMaker can work as a simple market maker bot provide liquidity for specific token. User also can implment their own sophisticated market maker based on it to work as a profitable bot.
+DEXMarketMaker can work as a simple market maker bot provide liquidity for specific token. User also can implment their own sophisticated market maker strategy based on it to work as a profitable bot
 
 ## 2. Summary
 
-This OIP aims to provide a market maker frameworker for okex dex.
+This OIP aims to provide a market maker frameworker for okex dex
 
 ## 3. Proposal
 
@@ -23,11 +23,11 @@ DEXMarketMaker is going to provide an open source, extendsible, and convenient f
 
 #### a. Account management component
 
-The component is responsible for creating account and getting account info, etc.
+The component is responsible for creating account and getting account info, etc
 
 #### b. Fair value component
 
-The component is responsible for getting lasteast information and calculating fair value and market state
+The component is responsible for getting latest information and calculating fair value / market state
 
 #### c. Quote component
 
@@ -35,7 +35,7 @@ The component is responsible for managing buy and sell pending orders on market 
 
 #### d. Risk control component
 
-The component is responsible for risk control, include but not limited to hedge exposure, pnl monitoring, etc.
+The component is responsible for risk control, include but not limited to hedge exposure, pnl monitoring, etc
 
 ## 4. Status
 
