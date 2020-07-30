@@ -1,12 +1,11 @@
+# OIP-5: OKChain ＆ DAppBirds Partnership proposal
 
-# OIP-5: OKChain ＆ Vite Partnership proposal
-
-| Author   | Vite Labs (@vitelabs) |
+| Author   | DappBirds Labs (@DAppBirds-Labs) |
 | :------- | ---------------------- |
 | Status   | Final                  |
 | Type     | Standard Track         |
 | Category | Core                   |
-| Created  | Jul 30, 2020           |
+| Created  | July 30, 2020           |
 
 ## Update Submit The DApp
 
@@ -17,44 +16,32 @@ Team complete the OKChain OKT Vote Tool
 
 ## Introduction
 
-### About Vite
+[DappBirds](https://store.dappbirds.com) is the world’s leading DAPP ecological service platform. From DAPP data analysis to the platform integrating design, chain transformation, distribution, operation, cross chain and transaction, it has connected more than 14 public chains, including nearly 4000 dapps, dozens of chain transformations and releases. It is also the only one in the industry that has independently developed and accessed the wallet service and can be downloaded directly in the global app store At present, PC, H5, small programs and app are fully covered by our products. There are also innovative game mining pool models, which have landed in multiple public chain mining pools, of which IOST has been the top ten mining pool nodes in the world. Nearly 100000 DAPP users are covered in all channels, dau in 5500+, Chinese, Korean and English versions covering the world, 70% of domestic users and 30% of overseas users. 
 
-[Vite](https://vite.org/) is a feeless, high-performance public blockchain, and the first of its kind to implement DAG-based smart contract capabilities. The original asynchronous architecture, hierarchical consensus and snapshot chain technology make Vite an industry-leader in terms of performance and commercial-level application support. To date, Vite has a steady record of deploying practical applications on its platform, with products including a decentralized exchange, a public financing dApp as a pilot program for the City of Syracuse, multiple on-chain games, and micropayment platforms.
+As the world's leading cryptocurrency exchange platform, OKEX has developed and launched the [OKChain](https://www.okex.com/okchain) ecosystem with industry-leading technical strength. The DPoS consensus mechanism adopted by OKChain has industry leading advantages in terms of block generation time and efficiency. In addition, in the voting mechanism of OKChain, the participating roles are composed of "ordinary voter" and "proxy voter". Ordinary voters can actively vote for the node, and can also establish a proxy relationship with proxy voters. The proxy voter can proxy ordinary users to exercise voting rights.
 
-Vite users are distributed in 180 countries around the world, with a community size of over 200,000, wallet daily active users of 20,000, 50 supernodes, and over 1500 full nodes. The Vite team was established in June 2018, with a founding team of technical and financial experts from China and the United States. Vite raised capital from Bitmain, OK Capital, Node Capital, Link VC, Genesis Capital, and other well-known funds. Vite Mainnet was launched on September 25, 2019.
-
-Vite Labs:
-
-- https://vite.org
-- https://github.com/vitelabs
-
-### About OKChain
-
-[OKChain](https://www.okex.com/okchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
-
-OKChain and Vite hold common visions in public chain governance, ecosystem building, DEX development, and cross-chain solutions. Both parties advocate open-source and decentralization. The concepts of ViteX’s “operator” and OKChain’s “DEX operator” give the community the right to build their own decentralized trading platform and independently decide assets to list.
-
-This decentralization model for the community will democratize the trading platform, and will benefit the future growth of the entire blockchain world.
+In order for OKChain eco-node users to enjoy rights in multiple dimensions at the same time through different participation identities, DAppBirds will help OKChain build the safest and most stable autonomous Staking system.
 
 OKChain: https://www.okex.com/okchain
 
-## Details of Plan
-As an ecosystem partner, Vite will cooperate with OKChain in the following aspects:
+Kava Labs:
 
-1\. Vite Labs will participate in the OKChain Supernode Plan, and OKEx will continue to operate the SBP(Supernode) of Vite.
+- https://dappbirds.com
+- https://github.com/dappBirds-Labs
 
-At present, OKEx is an SBP(Snapshot Block Producer) of Vite. After the announcement of more related details on OKChain, Vite Labs will join OKChain’s network and become an active contributor.
+## Partnership Proposal
 
-Both Vite and OKChain reached global consensus through the DPOS mechanism. As of now, the first batch of SBPs(Supernode) on the Vite blockchain has been operating steadily for over a year and accumulated great experience through the many successful hard forks, which can be shared with OKChain.
+### 1. Staking Vote System
 
-2\. The two parties will jointly develop an open decentralized trading ecosystem, and share DEX operation and governance experience.
+#### 1.1 Overview
+Staking system is a decentralized DAPP developed by DAppBirds for OKChain public chain governance. OKChain ecological node users can enjoy rights in multiple dimensions at the same time through different participation identities, such as obtaining block rewards and voting rewards. The holders of OKB will become the first batch of OKT holders, which will have a very important impact on their participation in multiple public chain participation scenarios such as super nodes, proxy voters, and ecological alliances on OKChain in the future.
 
-From the information released by OKChain, OKchain’s DEX and ViteX decentralized exchange are highly consistent in terms of governance, and are aimed at promoting decentralization for crypto trading. Vite Labs will be sharing experience of decentralized governance in aspects such as operator policies and platform token scenarios.
+In terms of governance, OKChain adopts the super node election rules and dividend mechanism. Through a reasonable and proxy proxy voting mechanism, OKChain ecosystem will generate a total of 21 super nodes; at the same time, the "one vote and multiple vote" node participation method will be the largest To a certain extent reflects and meets the will of the internal nodes of the ecology and the acquisition of multi-dimensional rights.
 
-3\. OKChain’s native token OKT will be listed on the ViteX exchange.
+#### 1.2 Functional structure
 
-ViteX is a decentralized exchange built on the Vite blockchain that supports listings of cross-chain assets. Vite Labs has integrated many cryptocurrencies, including OKB, into ViteX via a cross-chain manner. After OKT’s issuance, ViteX will be the first batch of exchanges to list OKT.
+![image](/docs/assets/OIP-5/func-struct.png)
 
-4\. Vite Labs will support OKChain in its Vite wallet.
+#### 1.3 Solution
 
-Vite Wallet is a multi-chain mobile HD wallet. At present, the wallet has integrated multiple blockchains such as Ethereum, Vite, Grin, and Binance Chain. In the future, Vite Labs plans to integrate OKChain into Vite Wallet to provide a convenient asset management tool for OKChain users.
+OKChain is completely open source and provides developers with the corresponding SDK and JSON-RPC. By docking with OKChain SDK, we can verify the user’s wallet address authority, verify it through the signature information and public key, and assign permissions to the current user, as well as obtain the user’s voting records, accumulated income, income dividends and other information, through JSON-RPC service Obtain node information, display the node list, distinguish super nodes and candidate nodes from UI interaction, and display the node's block revenue, users can choose the node they like. In addition, it also provides good support for proxy voting, which will meet the diverse needs of users.
