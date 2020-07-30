@@ -8,6 +8,13 @@
 | Category | Core                   |
 | Created  | June 5, 2020           |
 
+## Update Submit The DApp
+
+Team complete the OKChain OKT Vote Tool
+
+- web url: http://staking.okchain.dappbirds.com/
+- github: https://github.com/DAppBirds-Labs/okchain-staking-vote
+
 ## Introduction
 
 ### About Vite
