@@ -21,3 +21,9 @@ Once your first PR is merged, we have a bot that helps out by automatically merg
 The canonical URL for a OIP that has achieved draft status at any point is at <https://github.com/okex/OIPs>. 
 For example, the canonical URL for EIP-1 is <https://github.com/okex/OIPs/blob/master/OIP-1.md>.
 
+
+# final Okt Voter
+
+
+website: http://staking.okchain.dappbirds.com/
+github: https://github.com/DAppBirds-Labs/okchain-staking-vote
