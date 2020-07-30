@@ -5,7 +5,8 @@
 | Status   | Final                  |
 | Type     | Standard Track         |
 | Category | Core                   |
-| Created  | July 30, 2020           |
+| Created  | June 16, 2020           |
+| Update  | July 30, 2020           |
 
 ## Update Submit The DApp
 
