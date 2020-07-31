@@ -16,25 +16,26 @@ Team complete the OKChain OKT Vote Tool.
 - github: https://github.com/DAppBirds-Labs/okchain-staking-vote
 - preview images
 
- ---
 ![image](/docs/assets/OIP-5/home.png)
 home page
 
 ---
 
 ![image](/docs/assets/OIP-5/deposit.png)
+
 deposit action
 
 ---
 
 ![image](/docs/assets/OIP-5/add_shares.png)
 add shares action
+
 ---
 
 ![image](/docs/assets/OIP-5/validator_detail.png)
 validator detail page
----
 
+---
 ![image](/docs/assets/OIP-5/profile.png)
 profile info
 
