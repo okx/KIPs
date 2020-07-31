@@ -17,8 +17,9 @@ Team complete the OKChain OKT Vote Tool.
 - preview images
 
  - home page
-![image](/docs/assets/OIP-5/home.png)
+![home page](/docs/assets/OIP-5/home.png)
 
+---
  - deposit action
 ![image](/docs/assets/OIP-5/deposit.png)
 
