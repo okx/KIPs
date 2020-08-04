@@ -2,7 +2,7 @@
 
 | Author   | MugglePay (<a href="https://github.com/MugglePay">@MugglePay</a>) |
 | :------- | ---------------- |
-| Status   | Under implementation  |
+| Status   | Implemented  |
 | Type     | Standard Track |
 | Category | Core           |
 | Created  | 2020-07-10     |
@@ -60,7 +60,17 @@ Realizing self-operation of the OKChain and a peer-to-peer payments without midd
 
 
 ### 5.4 Demo
-Under implementation
+
+Web: https://heytea.mugglepay.com/?ref=okchain
+
+Video: https://www.youtube.com/watch?v=8BpDR8VWAJs
+
+Github: https://github.com/MugglePay/okchain-demo
+
+<img src="https://cdn.mugglepay.com/pay/demo/okchain/okchain-shop.jpg">
+
+
+<img src="https://cdn.mugglepay.com/pay/demo/okchain/okchain-pay.jpg">
 
 
 ## 6. License
