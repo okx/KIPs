@@ -1,0 +1,79 @@
+name: walletCreateV1
+
+event:
+  type: http
+  path: /v1/wallet/create
+  methods:
+    - POST
+ 
+packaging:
+  - .vars.json
+
+timeout: 15
+memory: 2048
+
+swagger:
+  paths:
+    /v1/wallet/create:
+      post:
+        summary: Creates new wallet
+        description: Creates new wallet address and token
+        parameters:
+          - in: body
+            name: body
+            description: Wallets are used to make transactions
+            required: true
+            schema:
+              "$ref": "#/definitions/createWalletBodyV1"        
+        tags:
+          - Wallet
+        produces:
+          - application/json
+        responses:
+          200:
+            description: successful operation
+            schema:
+              $ref: '#/definitions/createWalletResV1'
+          400:
+            description: bad request
+            schema:
+              $ref: '#/definitions/ErrorResponse'
+          500:
+            description: internal error                
+  definitions:
+    createWalletBodyV1:
+      type: object
+      properties:
+        type:
+          type: string
+          example: OKt        
+        secret:
+          type: string
+          example: secret123
+        options:
+          $ref: '#/definitions/createWalletBodyOptionsV1'
+    createWalletBodyOptionsV1:
+      type: object
+      properties:
+        asset:
+          type: string
+          example: OKt
+        assetType:
+          type: string
+          example: native
+          enum:
+            - native
+            - erc20        
+    createWalletResV1:
+      type: object
+      properties:
+        walletId:
+          type: string
+          example: 05429e81-2af6-4d29-b421-581cb84b20f8
+        address:
+          type: string
+          example: "0x73C6f30533A9ebD8D91A6298425B402F4E6B0593"      
+        token:
+          type: token
+          descriptiom: token used to access walet later
+          example: 834d9a9mn30sa03j3nafss...         

@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "test": "jest",
+    "eslint": "eslint .",
+    "jsinspect": "jsinspect -t 30 -i ./lib/ ./services/"
+  },
+  "dependencies": {
+    "squeezer-chainkit": "^1.0.8-beta",
+    "squeezer-chainkit-plugin": "0.0.1",
+    "squeezer-event-node": "~0.0.4",
+    "squeezer-serve": "~0.0.7",
+    "squeezer-swagger": "~0.0.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "eslint": "^3.14.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "jsinspect": "^0.12.7",
+    "json-loader": "^0.5.4",
+    "jest": "^21.2.1",
+    "webpack": "^3.6.0",
+    "yarn": "^1.13.0",
+    "webpack-node-externals": "^1.6.0",
+    "webpack-source-map-support": "^2.0.1"
+  }
+}

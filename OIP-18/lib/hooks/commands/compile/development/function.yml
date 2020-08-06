@@ -1,0 +1,8 @@
+- description: Webpacking handler source
+  bin: node ${project.path}/node_modules/webpack/bin/webpack.js
+  args:
+    - '--hide-modules' 
+    - '--config'
+    - '${project.path}/lib/webpack/functions/development.js'
+    - '${source}/handler.js'
+    - '${output}/handler.js'
