@@ -47,7 +47,5 @@ https://www.mathwallet.org
 
 [Demo Code](https://github.com/mathwallet/math-okchain-js)
 
-OKChain Web Wallet Operation Video - MathWallet
-https://youtu.be/fyslU4Bc0xY
 ## Status
 Finished
