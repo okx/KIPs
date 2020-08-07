@@ -1,0 +1,39 @@
+name: itnCallbackV1
+
+event:
+  type: http
+  path: /v1/itn/callback
+  methods:
+    - POST
+ 
+packaging:
+  - .vars.json
+
+timeout: 60
+
+memory: 512
+
+swagger:
+  paths:
+    /v1/itn/callback:
+      post:
+        summary: Receives inbound transactions notifications
+        parameters:
+          - in: body
+            name: body
+            required: true
+            schema:
+              "$ref": "#/definitions/sendTransactionBodyV1"        
+        tags:
+          - Itn
+        produces:
+          - application/json
+        responses:
+          200:
+            description: successful operation
+          400:
+            description: bad request
+            schema:
+              $ref: '#/definitions/ErrorResponse'
+          500:
+            description: internal error                
