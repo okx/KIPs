@@ -1,0 +1,54 @@
+name: walletTypesV1
+
+event:
+  type: http
+  path: /v1/wallet/types
+  methods:
+    - GET
+ 
+packaging:
+  - .vars.json
+
+timeout: 10  
+
+swagger:
+  paths:
+    /v1/wallet/types:
+      get:
+        summary: Get current available wallet types
+        description: Get current available wallet types 
+        tags:
+          - Wallet
+        produces:
+          - application/json
+        responses:
+          200:
+            description: successful operation
+            schema:
+              $ref: '#/definitions/walletTypesV1Res'
+          400:
+            description: bad request
+            schema:
+              $ref: '#/definitions/ErrorResponse'
+          500:
+            description: internal error                
+  definitions:
+    walletTypesV1Res:
+      type: object
+      properties:
+        message:
+          type: string
+          example: 'success'
+        data:  
+          type: array
+          items:
+            $ref: '#/definitions/walletTypesV1Obj'
+    walletTypesV1Obj:
+      type: object
+      properties:
+        type:
+          type: string
+          example: 'OKt'
+        info:
+          type: string
+          example: Okchain wallet.

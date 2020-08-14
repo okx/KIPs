@@ -1,0 +1,77 @@
+name: walletGetTransactionsV1
+
+event:
+  type: http
+  path: /v1/wallet/{id}/transactions
+  methods:
+    - GET
+ 
+packaging:
+  - .vars.json
+
+timeout: 10  
+
+swagger:
+  paths:
+    /v1/wallet/{id}/transactions:
+      get:
+        summary: Get wallet transactions
+        description: Get wallet transactions
+        parameters:
+          - in: path
+            name: id
+            description: wallet id
+            required: true     
+        tags:
+          - Wallet
+        produces:
+          - application/json
+        responses:
+          200:
+            description: successful operation
+            schema:
+              $ref: '#/definitions/walletTransactionsV1'
+          400:
+            description: bad request
+            schema:
+              $ref: '#/definitions/ErrorResponse'
+          500:
+            description: internal error                
+  definitions:
+    walletTransactionsV1:
+      type: object
+      properties:
+        message:
+          type: string
+          example: 'success'
+        data:  
+          type: array
+          items:
+            $ref: '#/definitions/transactionV1'  
+    transactionV1:
+      type: object
+      properties:
+        from:
+          type: string
+          example: "0x407E1a4F3Ab910D2164bC3646CFD0aF697f86713"      
+        to:
+          type: string
+          example: "0x207E1a4F3Ab910D2164bC3646CFD0aF697f86713"   
+        amount:
+          type: interger
+          example: 0.99999999
+        type:
+          type: string
+          example: out           
+        hash:
+          type: string
+          example: "0x5f09f750010959350fe9b04ee9e65c230683fc5ef9bf2b9da7200a34e9140ec5"
+        block:
+          type: number
+          example: 10721719   
+        createdAt:
+          type: string
+          example: "2019-04-15 10:45:46"
+        updatedAt:
+          type: string
+          example: "2019-04-15 10:45:46"          
