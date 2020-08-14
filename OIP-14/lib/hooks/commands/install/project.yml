@@ -1,0 +1,6 @@
+- description: Installing project's packages
+  bin: npm
+  args:
+    - '--no-bin-links'
+    - '--loglevel=error'
+    - 'install'
