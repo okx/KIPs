@@ -127,4 +127,14 @@ In addition, developers of both FIBOS and EOS community could also join the OKCh
 DeFi.cn aims to disseminate DeFi information, integrate industry resources, unite media platform and publish public opinions. DeFi.cn could also serve as a member of the OKChain Ecosystem and provide aggregated media / content and DeFi resources for the OKChain community, including contributions to industry influence, make greater say in blockchain world.
 
 
+### 6. OKChain Hackthon
+
+#### 6.1 Design of FIBOS IBC Protocols with OKChain
+
+[https://wallet.fo/okchain.pdf](https://wallet.fo/okchain.pdf)
+
+#### 6.2 Demonstration Video
+
+[https://youtu.be/PWukFWsiF9Q](https://youtu.be/PWukFWsiF9Q)
+
 
