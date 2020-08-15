@@ -1,0 +1,68 @@
+name: sendTransactionV1
+
+event:
+  type: http
+  path: /v1/wallet/sendTransaction
+  methods:
+    - POST
+ 
+packaging:
+  - .vars.json
+
+timeout: 60
+
+memory: 512
+
+swagger:
+  paths:
+    /v1/wallet/sendTransaction:
+      post:
+        summary: Initiate a blockchain transaction
+        description: Transfer funds to another 
+        parameters:
+          - in: body
+            name: body
+            required: true
+            schema:
+              "$ref": "#/definitions/sendTransactionBodyV1"        
+        tags:
+          - Wallet
+        produces:
+          - application/json
+        responses:
+          200:
+            description: successful operation
+            schema:
+              $ref: '#/definitions/sendTransactionResV1'
+          400:
+            description: bad request
+            schema:
+              $ref: '#/definitions/ErrorResponse'
+          500:
+            description: internal error                
+  definitions:
+    sendTransactionBodyV1:
+      type: object
+      properties:     
+        walletId:
+          type: string
+          example: b1b7c16f-6051-49c0-94b5-xxxxxxxxxxxx
+        token:
+          type: string
+          description: token used to access walet later
+          example: 834d9a9mn30sa03j3nafss...            
+        to:
+          type: string
+          example: "0x207E1a4F3Ab910D2164bC3646CFD0aF697f86713"   
+        amount:
+          type: interger
+          example: 0.99999999               
+        secret:
+          type: string
+          example: secret123        
+    sendTransactionResV1:
+      type: object
+      properties:
+        hash:
+          type: string
+          example: "0xb4c3482871fe28cbd6a81d859871d8ae08b4a7bb32b5dd2b3db6ff523917cf2d"
