@@ -37,8 +37,7 @@ This module is for the official paid collection of OKChain related DAPP or funct
 
 ## 4. Status
 
-[OKChain developer community platform](http://www.OKChainer.top:8084/) http://www.OKChainer.top:8084/
-
+[OKChain developer community platform](http://www.OKChainer.top:8084/) http://www.OKChainer.top:8084/   
 [Introduction & Demo video](https://v.youku.com/v_show/id_XNDc5OTExOTUzMg==.html) https://v.youku.com/v_show/id_XNDc5OTExOTUzMg==.html
 
 
