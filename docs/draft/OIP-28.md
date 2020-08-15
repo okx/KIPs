@@ -27,15 +27,17 @@ This module releases and updates the latest news of OKChain in time.
 
 This module is for everyone to discuss technology, exchange development experience, and discuss problems encountered in the development process.
 
-#### b. Feedback questions
+#### c. Feedback questions
 
 This module is for the official to collect OKChain related problems and program errors, and to provide channels for the community members to feedback OKChain improvement suggestions to the official.
 
-#### c. Reward task
+#### d. Reward task
 
 This module is for the official paid collection of OKChain related DAPP or function.
 
 ## 4. Status
 
 [OKChain developer community platform](http://www.OKChainer.top:8084/) http://www.OKChainer.top:8084/
+[Introduction & Demo video](https://v.youku.com/v_show/id_XNDc5OTExOTUzMg==.html) https://v.youku.com/v_show/id_XNDc5OTExOTUzMg==.html
+
 
