@@ -3,7 +3,7 @@
 | Author   | ambition1921 |
 | :------- | ------------------------ |
 | Status   | Draft                    |
-| Type     | Application           |
+| Type     | Application              |
 | Category | Application              |
 | Created  | 2020-7-20                |
 
