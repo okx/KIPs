@@ -66,8 +66,7 @@ This OIP make users know more about OKChain Validators Info. When validators fin
       },
       "p2p_endpoint": "",
       "rpc_endpoint": "",
-      "rust_endpoint": "",
-      "ws_endpoint": ""
+      "rest_endpoint": ""
     },
     {
       "location": {
@@ -78,8 +77,7 @@ This OIP make users know more about OKChain Validators Info. When validators fin
       },
       "p2p_endpoint": "",
       "rpc_endpoint": "",
-      "rust_endpoint": "",
-      "ws_endpoint": ""
+      "rest_endpoint": ""
     }
   ]
 }
