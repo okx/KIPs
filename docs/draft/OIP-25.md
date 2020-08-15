@@ -1,4 +1,4 @@
-# OIP-24: DEX MarketMaker
+# OIP-24: OKChain validator management platform 
 
 | Author   | ambition1921 |
 | :------- | ------------------------ |
@@ -30,5 +30,6 @@ This OIP aims to provide a validator manage platform for okchain validator's use
 
 ## 4. Status
 
-This OIP is under implementation.
+This OIP has been completed.   
+[Introduction and demonstration video website](https://v.youku.com/v_show/id_XNDc5OTA4MTUxMg==.html) 
 
