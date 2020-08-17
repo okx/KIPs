@@ -39,6 +39,9 @@ Conv-LSTM based DL model, using the most advanced machine learning and artificia
 
 - http://www.smart-ins.net/
 
+## VIDEO
+- https://youtu.be/9Dkkr8ZrSEs
+
 ## Source Code
 
 - https://github.com/only4sim/AITEX/
