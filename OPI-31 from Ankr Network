@@ -1,0 +1,18 @@
+OkChain one-button node deployment tool from Ankr Network
+
+Link: https://www.ankr.com/
+Youtube video: https://www.youtube.com/watch?v=eaDu-rl9a3I
+
+Descriptions
+
+Step 1: Go to https://www.ankr.com/ and sign in
+
+Step 2: Find OkChain in the node market
+
+Step 3: Click Deploy, change settings, create node name, and pay for the server.
+
+Step 4: The node will start to deploy and sync. Once it's finished, API will be able to find one the left.
+
+Step 5: Copy the API to URL and open it. Check status. Node information can be checked.
+
+For the full version tutorial, please check: https://github.com/okex/OIPs/pull/36
