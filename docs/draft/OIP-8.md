@@ -17,7 +17,9 @@ This OIP defines transactions and messages to support running smart contracts on
 
 ## 3. Status
 
-This OIP is under implementation.
+Open Source Repository: https://github.com/iavl/okchain
+
+Docs: https://github.com/iavl/okchain/tree/iavl-evm/docs/evm
 
 ## 4. Motivation
 
