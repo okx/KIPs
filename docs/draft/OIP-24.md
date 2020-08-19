@@ -41,4 +41,4 @@ The component is responsible for risk control, include but not limited to hedge 
 
 This OIP is under implementation based on okchain-java-sdk.
 
-The open source project URL is: https://github.com/Kevin-OpenSource-Labs/DEXMarketMaker
+The open source project URL is: https://github.com/Kevin-OpenSource-Labs/MarketMaker
