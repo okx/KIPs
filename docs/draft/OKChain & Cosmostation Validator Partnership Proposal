@@ -13,7 +13,7 @@
 
 Cosmostation operates validator nodes across major networks including the Cosmos Hub, Chainlink, Kava Network, Band Protocol, IRIS Hub, and many more with over $20 million in assets staked collectively. Cosmostation also develops and maintains powerful end-user applications for networks built with Tendermint. The suite of products include Mintscan Block Explorer, Cosmostation Mobile Wallet (iOS, Android), Cosmostation Web Wallet, Keystation, and open-source contributions for JavaScript development in Cosmos (CosmosJS).
 
-OKChain: https://www.okex.com/okchain
+OKChain: https://www.okex.com/okexchain
 
 Cosmostation:
 

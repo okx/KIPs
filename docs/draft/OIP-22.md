@@ -34,9 +34,9 @@ FEATURES
 https://www.mathwallet.org
 
 ## Demo & Sources
-[Demo Preview](https://developer.mathwallet.org/okchain)
+[Demo Preview](https://developer.mathwallet.org/okexchain)
 
-[Demo Code](https://github.com/mathwallet/math-okchain-js)
+[Demo Code](https://github.com/mathwallet/math-okexchain-js)
 
 ## Status
 Finished

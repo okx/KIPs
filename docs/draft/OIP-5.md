@@ -23,13 +23,13 @@ Vite Labs:
 
 ### About OKChain
 
-[OKChain](https://www.okex.com/okchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
+[OKChain](https://www.okex.com/okexchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
 
 OKChain and Vite hold common visions in public chain governance, ecosystem building, DEX development, and cross-chain solutions. Both parties advocate open-source and decentralization. The concepts of ViteX’s “operator” and OKChain’s “DEX operator” give the community the right to build their own decentralized trading platform and independently decide assets to list.
 
 This decentralization model for the community will democratize the trading platform, and will benefit the future growth of the entire blockchain world.
 
-OKChain: https://www.okex.com/okchain
+OKChain: https://www.okex.com/okexchain
 
 ## Details of Plan
 As an ecosystem partner, Vite will cooperate with OKChain in the following aspects:

@@ -14,7 +14,7 @@ This OIP is a proposal for peer-to-peer payments (e-commerce / online services) 
 
 ## 2. Abstract
 
-OIP-18 defines peer-to-peer payments on <a href="https://www.okex.com/okchain">OKChain</a>, which are cost-effective, almost immediate, secure and transparent. 
+OIP-18 defines peer-to-peer payments on <a href="https://www.okex.com/okexchain">OKChain</a>, which are cost-effective, almost immediate, secure and transparent. 
 
 Peer-to-peer (Cross-border) payments supported by OKChain provide significant advantages to businesses and consumers. Deloitte estimates that business-to-business and person-to-person payments with blockchain (OKChain) result in a 40% to 80% reduction in transaction costs, and take an average of few seconds to finalize .
 
@@ -35,7 +35,7 @@ In the traditional payment, if a merchant wants to accept payments from Europe, 
 
 MugglePay has processed millions of transactions since its inception. Using crypto, it is possible to purchase goods and services from ~3000 merchants on the MugglePay platform. The merchants with MugglePay SDK are still growing at a rapid rate. Together with OKChain, MugglePay will make crypto payments reach 10 million users in the next year. The cooperation between OKChain and MugglePay will co-construct the ecosystem and the value-added system.
 
-OKChain: https://www.okex.com/okchain
+OKChain: https://www.okex.com/okexchain
 
 MugglePay: 
 
@@ -61,16 +61,16 @@ Realizing self-operation of the OKChain and a peer-to-peer payments without midd
 
 ### 5.4 Demo
 
-Web: https://heytea.mugglepay.com/?ref=okchain
+Web: https://heytea.mugglepay.com/?ref=okexchain
 
 Video: https://www.youtube.com/watch?v=8BpDR8VWAJs
 
-Github: https://github.com/MugglePay/okchain-demo
+Github: https://github.com/MugglePay/okexchain-demo
 
-<img src="https://cdn.mugglepay.com/pay/demo/okchain/okchain-shop.jpg">
+<img src="https://cdn.mugglepay.com/pay/demo/okexchain/okexchain-shop.jpg">
 
 
-<img src="https://cdn.mugglepay.com/pay/demo/okchain/okchain-pay.jpg">
+<img src="https://cdn.mugglepay.com/pay/demo/okexchain/okexchain-pay.jpg">
 
 
 ## 6. License

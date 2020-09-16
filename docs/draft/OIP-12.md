@@ -1,4 +1,4 @@
-# OKChain/BitSong Partnership Proposal
+# OKExChain/BitSong Partnership Proposal
 
 | Author   | Angelo Recca (@bitsongofficial) |
 | -------- | ------------------------------- |
@@ -12,7 +12,7 @@ BitSong is an open source blockchain born in December 2017. Our mission is to si
 
 Based on Cosmos-SDK/Tendermint, BitSong is an interoperable and cross-chain blockchain.
 
-OKChain: https://www.okex.com/okchain
+OKExChain: https://www.okex.com/okexchain
 BitSong:
 https://bitsong.io
 https://github.com/bitsongofficial
@@ -25,9 +25,9 @@ Through the BitSong api, any user can build their own decentralized music player
 
 ## Proposal
 
-Our aim is to choose a solid and reliable partner such as OKChain and give users and artists the opportunity to trade their own music productions.
+Our aim is to choose a solid and reliable partner such as OKExChain and give users and artists the opportunity to trade their own music productions.
 
-There are many ways to transfer tokens, the simplest and most intuitive is to use IBC for the transfer of NFTs and then use OKChain for decentralized trading. In this way, all participants in the BitSong ecosystem will be able to take advantage of the opportunities that OKChain makes available, just as OKChain users will be able to enter BitSong much more easily and be part of its ecosystem.
+There are many ways to transfer tokens, the simplest and most intuitive is to use IBC for the transfer of NFTs and then use OKExChain for decentralized trading. In this way, all participants in the BitSong ecosystem will be able to take advantage of the opportunities that OKExChain makes available, just as OKExChain users will be able to enter BitSong much more easily and be part of its ecosystem.
 
 **BTSG** the native BitSong Blockchain token, will also be listed on the OKChain DEX.
 

@@ -3,7 +3,7 @@ OIP: 1
 title: OIP Purpose and Guidelines
 status: Active
 type: Meta
-author: OKChain core developers <okchain@okcoin.net> 
+author: OKChain core developers <okexchain@okcoin.net> 
 created: 2020-04-01
 updated: 2020-04-01
 -->
@@ -42,7 +42,7 @@ An OIP must meet certain minimum criteria. It must be a clear and complete descr
 
 ### Shepherding an OIP
 
-Parties involved in the process are you, the champion or *OIP author*, the [*OIP editors*](#OIP-editors), and the [*OKChain Core Developers*](https://github.com/okex/okchain-pm).
+Parties involved in the process are you, the champion or *OIP author*, the [*OIP editors*](#OIP-editors), and the [*OKChain Core Developers*](https://github.com/okex/okexchain-pm).
 
 Before you begin writing a formal OIP, you should vet your idea. Ask the OKChain community first if an idea is original to avoid wasting time on something that will be be rejected based on prior research. It is thus recommended to open a discussion thread on [the OKChain Magicians forum] to do this, but you can also use [one of the OKChain Gitter chat rooms], [the OKChain subreddit] or [the Issues section of this repository]. 
 
@@ -109,7 +109,7 @@ Each OIP should have the following parts:
 - Preamble - RFC 822 style headers containing metadata about the OIP, including the OIP number, a short descriptive title (limited to a maximum of 44 characters), and the author details. See [below]() for details.
 - Abstract - A short (~200 word) description of the technical issue being addressed.
 - Motivation (*optional) - The motivation is critical for OIPs that want to change the OKChain protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the OIP solves. OIP submissions without sufficient motivation may be rejected outright.
-- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OKChain platforms (go-okchain,[and others]().
+- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OKChain platforms (go-okexchain,[and others]().
 - Rationale - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 - Backwards Compatibility - All OIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The OIP must explain how the author proposes to deal with these incompatibilities. OIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 - Test Cases - Test cases for an implementation are mandatory for OIPs that are affecting consensus changes. Other OIPs can choose to include links to test cases if applicable.
@@ -256,13 +256,13 @@ See [the revision history for further details](https://github.com/okex/OIPs/comm
 
 
 [API/RPC]: https://documenter.getpostman.com/view/1112175/SzS5u6bE?version=latest
-[interfaces repo]: https://github.com/okex/okchain-interfaces
+[interfaces repo]: https://github.com/okex/okexchain-interfaces
 [pull request]: https://github.com/okex/OIPs/pulls
 [the Issues section of this repository]: https://github.com/okex/OIPs/issues
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Ethereum's EIP-0001]: https://eips.ethereum.org/EIPS/eip-1
 [Python's PEP-0001]: https://www.python.org/dev/peps/
-[AllCoreDevs agenda GitHub Issue]: https://github.com/okex/okchain-pm/issues
+[AllCoreDevs agenda GitHub Issue]: https://github.com/okex/okexchain-pm/issues
 
 ## Copyright
 

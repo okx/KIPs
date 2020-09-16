@@ -1,6 +1,6 @@
 # NULS & OKChain Ecosystem Cooperation Proposal
 
-(Full article at https://www.okex.com/academy/en/nuls-okchain-ecosystem-cooperation-proposal)
+(Full article at https://www.okex.com/academy/en/nuls-okexchain-ecosystem-cooperation-proposal)
 
 ![img](https://www.okex.com/academy/wp-content/uploads/2020/06/nuls.jpg)
 

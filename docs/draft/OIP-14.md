@@ -33,9 +33,9 @@ Squeezer:
 
 ### About OKChain
 
-[OKChain](https://www.okex.com/okchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
+[OKChain](https://www.okex.com/okexchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
 
-OKChain: https://www.okex.com/okchain
+OKChain: https://www.okex.com/okexchain
 
 ## Details of Plan
 

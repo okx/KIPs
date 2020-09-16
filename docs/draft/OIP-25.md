@@ -13,7 +13,7 @@ For the validator administrators, it is particularly important to obtain the sta
 
 ## 2. Summary
 
-This OIP aims to provide a validator manage platform for okchain validator's user.
+This OIP aims to provide a validator manage platform for okexchain validator's user.
 
 ## 3. Proposal
 

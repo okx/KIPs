@@ -9,7 +9,7 @@
 1. Install Squeezer's command line tool globally on your machine using npm:
 `npm install squeezer-cli -g`
 2. Create a new project using the squeezer-2way-payment template: 
-`sqz create --project my-first-project --template https://github.com/SqueezerIO/stellar-okchain-payment-dapp`
+`sqz create --project my-first-project --template https://github.com/SqueezerIO/stellar-okexchain-payment-dapp`
 3. Switch to the project's directory:
     `cd my-first-project`
 4. Initialize the local directory as a Git repository:
