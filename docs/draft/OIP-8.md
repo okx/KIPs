@@ -9,23 +9,23 @@
 
 ## 1. Summary
 
-This OIP is about introducing EVM for OKChain to support running smart contracts.
+This OIP is about introducing EVM for OKExChain to support running smart contracts.
 
 ## 2. Abstract­
 
-This OIP defines transactions and messages to support running smart contracts on OKChain.
+This OIP defines transactions and messages to support running smart contracts on OKExChain.
 
 ## 3. Status
 
-Open Source Repository: https://github.com/iavl/okchain
+Open Source Repository: https://github.com/iavl/okexchain
 
-Docs: https://github.com/iavl/okchain/tree/iavl-evm/docs/evm
+Docs: https://github.com/iavl/okexchain/tree/iavl-evm/docs/evm
 
 ## 4. Motivation
 
 As the underlying runtime environment of smart contracts, EVM is currently the most mature virtual machine running on the blockchain.
 
-Running smart contracts is one of OKChain's ecological directions.
+Running smart contracts is one of OKExChain's ecological directions.
 
 The OIP is to conclude the target, to realize self-operation in the era of blockchain.
 
