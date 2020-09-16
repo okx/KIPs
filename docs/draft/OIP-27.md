@@ -1,4 +1,4 @@
-# OIP-(27): Tavitt ＆ OKChain Partership Proposal
+# OIP-(27): Tavitt ＆ OKExChain Partership Proposal
 
 | Author   | Cosmostation (@cosmostation) |
 | :------- | ---------------------- |

@@ -3,7 +3,7 @@ OIP: 1
 title: OIP Purpose and Guidelines
 status: Active
 type: Meta
-author: OKChain core developers <okexchain@okcoin.net> 
+author: OKExChain core developers <okexchain@okcoin.net> 
 created: 2020-04-01
 updated: 2020-04-01
 -->
@@ -12,24 +12,24 @@ updated: 2020-04-01
 
 ## What is an OIP?
 
-OIP stands for OKChain Improvement Proposal. An OIP is a design document providing information to the OKChain community, or describing a new feature for OKChain or its processes or environment. The OIP should provide a concise technical specification of the feature and a rationale for the feature. The OIP author is responsible for building consensus within the community and documenting dissenting opinions.
+OIP stands for OKExChain Improvement Proposal. An OIP is a design document providing information to the OKExChain community, or describing a new feature for OKExChain or its processes or environment. The OIP should provide a concise technical specification of the feature and a rationale for the feature. The OIP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## OIP Rationale
 
-We intend OIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into OKChain. Because the OIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+We intend OIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into OKExChain. Because the OIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
 
-For OKChain implementers, OIPs are a convenient way to track the progress of their implementation. Ideally each implementation maintainer would list the OIPs that they have implemented. This will give end users a convenient way to know the current status of a given implementation or library.
+For OKExChain implementers, OIPs are a convenient way to track the progress of their implementation. Ideally each implementation maintainer would list the OIPs that they have implemented. This will give end users a convenient way to know the current status of a given implementation or library.
 
 ## OIP Types
 
 There are three types of OIP:
 
-- A **Standard Track OIP** describes any change that affects most or all OKChain implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using OKChain. Furthermore Standard OIPs can be broken down into the following categories. 
+- A **Standard Track OIP** describes any change that affects most or all OKExChain implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using OKExChain. Furthermore Standard OIPs can be broken down into the following categories. 
   - **Matchingtrading Engine** - improvements around matching trading engine.
   - **Application Module** - includes improvements around module-level standards, like Bank, Dex, and Bankend. 
   - **Interface** - includes improvements around client [API/RPC] specifications and standards, and also certain language-level standards . The label “interface” aligns with the [interfaces repo] and discussion should primarily occur in that repository before an OIP is submitted to the OIPs repository.
 
-- A **Meta OIP** describes a process surrounding OKChain or proposes a change to (or an event in) a process. Process OIPs are like Standards Track OIPs but apply to areas other than the OKChain protocol itself. They may propose an implementation, but not to OKChain's codebase; they often require community consensus;  they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in OKChain development. Any meta-OIP is also considered a Process OIP.
+- A **Meta OIP** describes a process surrounding OKExChain or proposes a change to (or an event in) a process. Process OIPs are like Standards Track OIPs but apply to areas other than the OKExChain protocol itself. They may propose an implementation, but not to OKExChain's codebase; they often require community consensus;  they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in OKExChain development. Any meta-OIP is also considered a Process OIP.
 
 
 It is highly recommended that a single OIP contain a single key proposal or new idea. The more focused the OIP, the more successful it tends to be. A change to one client doesn't require an OIP; a change that affects multiple clients, or defines a standard for multiple apps to use, does.
@@ -42,11 +42,11 @@ An OIP must meet certain minimum criteria. It must be a clear and complete descr
 
 ### Shepherding an OIP
 
-Parties involved in the process are you, the champion or *OIP author*, the [*OIP editors*](#OIP-editors), and the [*OKChain Core Developers*](https://github.com/okex/okexchain-pm).
+Parties involved in the process are you, the champion or *OIP author*, the [*OIP editors*](#OIP-editors), and the [*OKExChain Core Developers*](https://github.com/okex/okexchain-pm).
 
-Before you begin writing a formal OIP, you should vet your idea. Ask the OKChain community first if an idea is original to avoid wasting time on something that will be be rejected based on prior research. It is thus recommended to open a discussion thread on [the OKChain Magicians forum] to do this, but you can also use [one of the OKChain Gitter chat rooms], [the OKChain subreddit] or [the Issues section of this repository]. 
+Before you begin writing a formal OIP, you should vet your idea. Ask the OKExChain community first if an idea is original to avoid wasting time on something that will be be rejected based on prior research. It is thus recommended to open a discussion thread on [the OKExChain Magicians forum] to do this, but you can also use [one of the OKExChain Gitter chat rooms], [the OKExChain subreddit] or [the Issues section of this repository]. 
 
-In addition to making sure your idea is original, it will be your role as the author to make your idea clear to reviewers and interested parties, as well as inviting editors, developers and community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your OIP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. For example, the work required for implementing a Core OIP will be much greater than for an ERC and the OIP will need sufficient interest from the OKChain client teams. Negative community feedback will be taken into consideration and may prevent your OIP from moving past the Draft stage.
+In addition to making sure your idea is original, it will be your role as the author to make your idea clear to reviewers and interested parties, as well as inviting editors, developers and community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your OIP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. For example, the work required for implementing a Core OIP will be much greater than for an ERC and the OIP will need sufficient interest from the OKExChain client teams. Negative community feedback will be taken into consideration and may prevent your OIP from moving past the Draft stage.
 
 ### Matching trading Engine OIPs
 
@@ -58,7 +58,7 @@ The AllCoreDevs call serve as a way for client implementers to do three things. 
 
 These calls generally result in a "rough consensus" around what OIPs should be implemented. This "rough consensus" rests on the assumptions that OIPs are not contentious enough to cause a network split and that they are technically sound.
 
-warning: The OIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them. This puts the burden on client implementers to try and gauge community sentiment, which hinders the technical coordination function of OIPs and AllCoreDevs calls. If you are shepherding an OIP, you can make the process of building community consensus easier by making sure that [the OKChain Magicians forum] thread for your OIP includes or links to as much of the community discussion as possible and that various stakeholders are well-represented.
+warning: The OIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them. This puts the burden on client implementers to try and gauge community sentiment, which hinders the technical coordination function of OIPs and AllCoreDevs calls. If you are shepherding an OIP, you can make the process of building community consensus easier by making sure that [the OKExChain Magicians forum] thread for your OIP includes or links to as much of the community discussion as possible and that various stakeholders are well-represented.
 
 *In short, your role as the champion is to write the OIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea.* 
 
@@ -78,7 +78,7 @@ Following is the process that a successful Matching trading Engine OIP will move
 
 Each status change is requested by the OIP author and reviewed by the OIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your OIP. The OIP editors will process these requests as per the conditions below.
 
-* **Idea** -- Once the champion has asked the OKChain community whether an idea has any chance of support, they will write a draft OIP as a [pull request]. Consider including an implementation if this will aid people in studying the OIP.
+* **Idea** -- Once the champion has asked the OKExChain community whether an idea has any chance of support, they will write a draft OIP as a [pull request]. Consider including an implementation if this will aid people in studying the OIP.
   * :arrow_right: Draft -- If agreeable, OIP editor will assign the OIP a number (generally the issue or PR number related to the OIP) and merge your pull request. The OIP editor will not unreasonably deny an OIP.
   * :x: Draft -- Reasons for denying draft status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing backwards compatibility.
 * **Draft** -- Once the first draft has been merged, you may submit follow-up pull requests with further changes to your draft until such point as you believe the OIP to be mature and ready to proceed to the next status. An OIP in draft status must be implemented to be considered for promotion to the next status (ignore this requirement for core OIPs).
@@ -88,10 +88,10 @@ Each status change is requested by the OIP author and reviewed by the OIP editor
   * :x: -- A Last Call which results in material changes or substantial unaddressed technical complaints will cause the OIP to revert to Draft.
   * :arrow_right: Accepted (Core OIPs only) -- A successful Last Call without material changes or unaddressed technical complaints will become Accepted.
   * :arrow_right: Final (Non-Core OIPs) -- A successful Last Call without material changes or unaddressed technical complaints will become Final.
-* **Accepted (Core OIPs only)** -- This status signals that material changes are unlikely and OKChain client developers should consider this OIP for inclusion. Their process for deciding whether to encode it into their clients as part of a hard fork is not part of the OIP process.
+* **Accepted (Core OIPs only)** -- This status signals that material changes are unlikely and OKExChain client developers should consider this OIP for inclusion. Their process for deciding whether to encode it into their clients as part of a hard fork is not part of the OIP process.
   * :arrow_right: Draft -- The Core Devs can decide to move this OIP back to the Draft status at their discretion. E.g. a major, but correctable, flaw was found in the OIP.
   * :arrow_right: Rejected -- The Core Devs can decide to mark this OIP as Rejected at their discretion. E.g. a major, but uncorrectable, flaw was found in the OIP.
-  * :arrow_right: Final -- Standards Track Core OIPs must be implemented in at least three viable OKChain clients before it can be considered Final. When the implementation is complete and adopted by the community, the status will be changed to “Final”.
+  * :arrow_right: Final -- Standards Track Core OIPs must be implemented in at least three viable OKExChain clients before it can be considered Final. When the implementation is complete and adopted by the community, the status will be changed to “Final”.
 * **Final** -- This OIP represents the current state-of-the-art. A Final OIP should only be updated to correct errata.
 
 Other exceptional statuses include:
@@ -108,8 +108,8 @@ Each OIP should have the following parts:
 
 - Preamble - RFC 822 style headers containing metadata about the OIP, including the OIP number, a short descriptive title (limited to a maximum of 44 characters), and the author details. See [below]() for details.
 - Abstract - A short (~200 word) description of the technical issue being addressed.
-- Motivation (*optional) - The motivation is critical for OIPs that want to change the OKChain protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the OIP solves. OIP submissions without sufficient motivation may be rejected outright.
-- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OKChain platforms (go-okexchain,[and others]().
+- Motivation (*optional) - The motivation is critical for OIPs that want to change the OKExChain protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the OIP solves. OIP submissions without sufficient motivation may be rejected outright.
+- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OKExChain platforms (go-okexchain,[and others]().
 - Rationale - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 - Backwards Compatibility - All OIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The OIP must explain how the author proposes to deal with these incompatibilities. OIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 - Test Cases - Test cases for an implementation are mandatory for OIPs that are affecting consensus changes. Other OIPs can choose to include links to test cases if applicable.
@@ -180,7 +180,7 @@ The `resolution` header is required for Standards Track OIPs only. It contains a
 
 #### `discussions-to` header
 
-While an OIP is a draft, a `discussions-to` header will indicate the mailing list or URL where the OIP is being discussed. As mentioned above, examples for places to discuss your OIP include [OKChain topics on Gitter](), an issue in this repo or in a fork of this repo, [OKChain Magicians]() (this is suitable for OIPs that may be contentious or have a strong governance aspect), and [Reddit r/OKChain]().
+While an OIP is a draft, a `discussions-to` header will indicate the mailing list or URL where the OIP is being discussed. As mentioned above, examples for places to discuss your OIP include [OKExChain topics on Gitter](), an issue in this repo or in a fork of this repo, [OKExChain Magicians]() (this is suitable for OIPs that may be contentious or have a strong governance aspect), and [Reddit r/OKExChain]().
 
 No `discussions-to` header is necessary if the OIP is being discussed privately with the author.
 
@@ -239,13 +239,13 @@ Once the OIP is ready for the repository, the OIP editor will:
 
 - Send a message back to the OIP author with the next step.
 
-Many OIPs are written and maintained by developers with write access to the OKChain codebase. The OIP editors monitor OIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
+Many OIPs are written and maintained by developers with write access to the OKExChain codebase. The OIP editors monitor OIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
 
 The editors don't pass judgment on OIPs. We merely do the administrative & editorial part.
 
 ## History
 
-This document was derived heavily from [Ethereum's EIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OKChain Improvement Process, and should not be bothered with technical questions specific to OKChain or the OIP. Please direct all comments to the OIP editors.
+This document was derived heavily from [Ethereum's EIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OKExChain Improvement Process, and should not be bothered with technical questions specific to OKExChain or the OIP. Please direct all comments to the OIP editors.
 
 
 

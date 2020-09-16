@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-User can create their own token on OKChain and allow other users to trade it. But sometimes the tokens are lack of liquidity.
+User can create their own token on OKExChain and allow other users to trade it. But sometimes the tokens are lack of liquidity.
 
 DEXMarketMaker can work as a simple market maker bot provide liquidity for specific token. User also can implment their own sophisticated market maker based on it to work as a profitable bot.
 

@@ -1,4 +1,4 @@
-# OKChain 2-way payment system
+# OKExChain 2-way payment system
 
 ## Framework : [squeezer.io](https://squeezer.io)
 ## Documentation : [docs.squeezer.io](https://docs.squeezer.io/)

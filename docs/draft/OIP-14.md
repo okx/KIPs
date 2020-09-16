@@ -1,5 +1,5 @@
 
-# OIP-14: OKChain ＆ Squeezer Partnership proposal
+# OIP-14: OKExChain ＆ Squeezer Partnership proposal
 
 | Author   | Squeezer.IO (@SqueezerIO) |
 | :------- | ---------------------- |
@@ -31,15 +31,15 @@ Squeezer:
 - https://squeezer.io
 - https://github.com/SqueezerIO
 
-### About OKChain
+### About OKExChain
 
-[OKChain](https://www.okex.com/okexchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
+[OKExChain](https://www.okex.com/okexchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
 
-OKChain: https://www.okex.com/okexchain
+OKExChain: https://www.okex.com/okexchain
 
 ## Details of Plan
 
-Use Squeezer to develop 2-way payment systems for inbound/outbound transactions on the top of OKChain for different crypto assets.
+Use Squeezer to develop 2-way payment systems for inbound/outbound transactions on the top of OKExChain for different crypto assets.
 
 ### Where does a two-way payment system fit in?
 

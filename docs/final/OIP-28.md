@@ -1,6 +1,6 @@
-# OIP-28: OKChain Validator Profile
+# OIP-28: OKExChain Validator Profile
 
-| Author   | Ocean Fan (@OKChain)  |
+| Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |
@@ -21,7 +21,7 @@ This OIP is implemented.
 
 ## 4. Motivation
 
-This OIP make users know more about OKChain Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
+This OIP make users know more about OKExChain Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
 
 ## 5. Specification
 
@@ -42,9 +42,9 @@ This OIP make users know more about OKChain Validators Info. When validators fin
     "website": "",
     "email": "",
     "branding":{
-      "logo_256":"http://www.xxxxx.com/logo/OKChain-256.png",
-      "logo_1024":"http://www.xxxxx.com/logo/OKChain-1024.png",
-      "logo_svg":"http://www.xxxxx.com/logo/OKChain-logo.svg"
+      "logo_256":"http://www.xxxxx.com/logo/OKExChain-256.png",
+      "logo_1024":"http://www.xxxxx.com/logo/OKExChain-1024.png",
+      "logo_svg":"http://www.xxxxx.com/logo/OKExChain-logo.svg"
       
     },
     "location": "City, Country",

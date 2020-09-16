@@ -1,4 +1,4 @@
-# OIP-26：Qingah wallet for OKChain by BitVate
+# OIP-26：Qingah wallet for OKExChain by BitVate
 
 | Author   | kilmas (kilmas@qq.com) |
 | -------- | ------------------------ |
@@ -23,16 +23,16 @@ Dapp/Browser: Integrated multiple dexchanges, Now supported:  ETH DEX, FO ETH, e
 
 [Qingah App Download](https://github.com/kilmas/QHWallet/releases)
 
-## Proposal for OKChain
+## Proposal for OKExChain
 
-Qingah App new version ready to support OKChain's testnet, wallet support OKChain all tokens and OKChain dex, trade support OKChain all pairs, at the same time, support OKChain's stake voting, convenient user participation in OKChain ecology.
+Qingah App new version ready to support OKExChain's testnet, wallet support OKExChain all tokens and OKExChain dex, trade support OKExChain all pairs, at the same time, support OKExChain's stake voting, convenient user participation in OKExChain ecology.
 
 Wallet:
  - Add/Remove Token
  - Transfer/Receive Token
  - Transaction history
  - Stake voting
- - OKChain explorer
+ - OKExChain explorer
 
 Trade：
  - Open/Cancel order
@@ -42,10 +42,10 @@ Trade：
  - kline view
  - Order book view
 
-[Qingah Demo for OKChain](https://github.com/kilmas/QHWallet/releases)
+[Qingah Demo for OKExChain](https://github.com/kilmas/QHWallet/releases)
 
-[Qingah open source for OKChain](https://github.com/kilmas/QHWallet)
+[Qingah open source for OKExChain](https://github.com/kilmas/QHWallet)
 
 
 ## Status
-Qingah wallet ready to support OKChain's testnet and OKB token, after OKChain's mainnet go live, It will be released for the first time.
+Qingah wallet ready to support OKExChain's testnet and OKB token, after OKExChain's mainnet go live, It will be released for the first time.
