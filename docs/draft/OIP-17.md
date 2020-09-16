@@ -48,6 +48,8 @@ Trade：
 
 [User guide of ONE Demo for OKExChain](https://github.com/onechainone/OIPs/wiki)
 
+[OneChain Video](https://m.youtube.com/watch?v=_KgYfgbazFk)
+
 
 ## Status
 ONE wallet already supported OKExChain's testnet, after OKExChain's mainnet go live, It will be released for the first time.

@@ -28,7 +28,10 @@ ChainsGuard is going to provide an open source, secure, and convenient cold wall
 ## 4. Sources Code
 [chainsguard-wallet](https://github.com/i11m20n/chainsguard-wallet)
 
-## 5. Status
+## 5. Demo Video
+[chainsguard-wallet Demo video](https://youtu.be/WzsTAoQ1vhE)
+
+## 6. Status
 
 Finished
 

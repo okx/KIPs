@@ -33,8 +33,17 @@ FEATURES
 ## Download
 https://www.mathwallet.org
 
-## Demo & Sources
-[Demo Preview](https://developer.mathwallet.org/okexchain)
+## Video & Sources
+####
+[OKExChain Web Wallet Operation Video - MathWallet](https://youtu.be/fyslU4Bc0xY)
+
+#### Web Wallet
+[https://mathwallet.org/web/okexchain](https://mathwallet.org/web/okchain) 
+
+[Source Code](https://github.com/mathwallet/math-okchain-web-wallet)
+
+#### More
+[Demo Preview](https://developer.mathwallet.org/okchain) 
 
 [Demo Code](https://github.com/mathwallet/math-okexchain-js)
 
