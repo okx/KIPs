@@ -1,6 +1,7 @@
+
 # OIP-20: Tokens on OKExChain
 
-| Author   | Ocean Fan (@OKExChain)  |
+| Author   | Ocean Fan (@OKExChain)|
 | -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |
@@ -130,3 +131,4 @@ Burn transaction is to reduce the total supply of a token. The transaction initi
 The content is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
  
+
