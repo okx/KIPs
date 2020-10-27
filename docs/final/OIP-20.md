@@ -13,7 +13,7 @@ This OIP is a proposal for token management on the OKExChain.
 
 ## 2. Abstract
 
-OIP-16 Proposal is about a standard set of rules for token management on the OKExChain. It subscribes 2 things of the token on OKExChain in detail: 1 What properties a token on OKExChain have. 2 What actions can be performed on a token of OKExChain.
+OIP-20 Proposal is about a standard set of rules for token management on the OKExChain. It subscribes 2 things of the token on OKExChain in detail: 1 What properties a token on OKExChain have. 2 What actions can be performed on a token of OKExChain.
 
 ## 3. Status
 
