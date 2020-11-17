@@ -24,16 +24,24 @@ The data comes from IEEE ICDM 2018
 
 The IEEE International Conference on Data Mining series (ICDM) has established itself as the world’s premier research conference in data mining. The conference covers all aspects of data mining, including algorithms, software and systems, and applications. ICDM draws researchers and application developers from a wide range of data mining related areas such as statistics, machine learning, pattern recognition, databases and data warehousing, data visualization, knowledge-based systems, and high performance computing. 
 
-DEMO:
-
-- http://www.smart-ins.net/
 
 ## Proposal
 
-SmartIns is an automatic agricultural insurance inferred from DL model on the blockchain . Using OKChain, Machine Learning and Cloud Storage, we created an agricultural disaster insurance that uses the smart contract as insurance clause and AI inferential index as insurance basis. Using Blockchain and Machine Learning, the entire process of insurance from insurance to claims is objective and automatic, which breaks the trust paradox in agricultural insurance. Since all smart contract, model and data are stored on the cloud, the trained model can be used in many places.
+SmartIns is an automatic agricultural insurance inferred from DL model on the blockchain . Using OKExChain, Machine Learning and Cloud Storage, we created an agricultural disaster insurance that uses the smart contract as insurance clause and AI inferential index as insurance basis. Using Blockchain and Machine Learning, the entire process of insurance from insurance to claims is objective and automatic, which breaks the trust paradox in agricultural insurance. Since all smart contract, model and data are stored on the cloud, the trained model can be used in many places.
 
 ### 1. Insurance contracts
 Insurance contracts, including member management, rights management, insurance, status updates, automatic claims, multi-insurance multi-policy management.
 
 ### 2. ConvLSTM
 Conv-LSTM based DL model, using the most advanced machine learning and artificial intelligence technologies to establish "rain shields".
+
+## DEMO
+
+- http://www.smart-ins.net/
+
+## VIDEO
+- https://youtu.be/9Dkkr8ZrSEs
+
+## Source Code
+
+- https://github.com/only4sim/AITEX/

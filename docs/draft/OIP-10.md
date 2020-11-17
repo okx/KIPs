@@ -19,16 +19,19 @@ Web Site：[https://www.chainsguard.com/](https://www.chainsguard.com/)
 
 ## 2. Summary
 
-This OIP aims to provide a secure mobile wallet solution for OKChain ecology.
+This OIP aims to provide a secure mobile wallet solution for OKExChain ecology.
 
 ## 3. Proposal
 
-ChainsGuard is going to provide an open source, secure, and convenient cold wallet mobile application to solve the needs of OKChain eco-users to make transfer transactions and contract calls on the mobile side. The wallet app use Beijing ChainsGuard security components to protect users' assets.
+ChainsGuard is going to provide an open source, secure, and convenient cold wallet mobile application to solve the needs of OKExChain eco-users to make transfer transactions and contract calls on the mobile side. The wallet app use Beijing ChainsGuard security components to protect users' assets.
 
 ## 4. Sources Code
 [chainsguard-wallet](https://github.com/i11m20n/chainsguard-wallet)
 
-## 5. Status
+## 5. Demo Video
+[chainsguard-wallet Demo video](https://youtu.be/WzsTAoQ1vhE)
+
+## 6. Status
 
 Finished
 
