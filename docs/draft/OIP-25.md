@@ -1,4 +1,4 @@
-# OIP-24: OKChain validator management platform 
+# OIP-24: OKEXChain validator management platform 
 
 | Author   | ambition1921 |
 | :------- | ------------------------ |
