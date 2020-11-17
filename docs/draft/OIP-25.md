@@ -31,11 +31,6 @@ This OIP aims to provide a validator manage platform for okexchain validator's u
 ## 4. Status
 
 This OIP has been completed.   
-<<<<<<< HEAD
 [Introduction and demonstration video website](https://v.youku.com/v_show/id_XNDc5OTA4MTUxMg==.html)<br>
 [User Manual](https://pan.baidu.com/s/1HK5ZA_XqWqXCZg2i0IscLA) https://pan.baidu.com/s/1HK5ZA_XqWqXCZg2i0IscLA   
 **access passowrd：o9cg**
-=======
-[Introduction and demonstration video website](https://v.youku.com/v_show/id_XNDc5OTA4MTUxMg==.html) 
-
->>>>>>> 61a6ff24caf0edb85d28aa1196a5ff51c00fb9b3
