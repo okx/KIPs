@@ -1,14 +1,14 @@
 .. _index:
-.. okchain-docs documentation master file, created by
+.. okexchain-docs documentation master file, created by
    sphinx-quickstart on Tue Jan  7 11:23:39 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 
-OKChain Improvement Proposals (OIPs)
+OKExChain Improvement Proposals (OIPs)
 ====================================
 
-OKChain Improvement Proposals (OIPs) describe standards for the OKChain
+OKExChain Improvement Proposals (OIPs) describe standards for the OKExChain
 platform, including core protocol specifications, client APIs, and
 contract standards.
 
@@ -18,7 +18,7 @@ Contributing
 1. Review OIP-1.
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your OIP to your fork of the repository.
-4. Submit a Pull Request to OKChain's OIPs repository.
+4. Submit a Pull Request to OKExChain's OIPs repository.
 
 Once your first PR is merged, we have a bot that helps out by
 automatically merging PRs to draft OIPs. For this to work, it has to be

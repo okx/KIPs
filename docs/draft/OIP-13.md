@@ -8,11 +8,11 @@
 
 ## Introduction
 
-**OKDex** is the first _Decentralized Exchange_ based on **OKChain**, built and made open source by **BitSong**.
+**OKDex** is the first _Decentralized Exchange_ based on **OKExChain**, built and made open source by **BitSong**.
 
-**OKDex** is an open source project, its mission is to facilitate the adoption and implementation of more decentralized exchanges based on **OKChain**.
+**OKDex** is an open source project, its mission is to facilitate the adoption and implementation of more decentralized exchanges based on **OKExChain**.
 
-Thanks to the use of **Cosmos-SDK**, **OKChain** sets the foundations to become one of the most interoperable decentralized and open source exchanges.
+Thanks to the use of **Cosmos-SDK**, **OKExChain** sets the foundations to become one of the most interoperable decentralized and open source exchanges.
 
 ## Demo
 
@@ -30,7 +30,7 @@ Through **OKDex** it is possible doing decentralized trading (through different 
 ### Staking
 
 - Manage the staking activity
-- Analyze the OKChain validators
+- Analyze the OKExChain validators
 
 ### Token
 

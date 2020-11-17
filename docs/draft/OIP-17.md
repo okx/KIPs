@@ -1,4 +1,4 @@
-# OIP-17：ONE mobile wallet for OKChain by OneChain
+# OIP-17：ONE mobile wallet for OKExChain by OneChain
 
 | Author   | onechainone (@onechainone) |
 | -------- | ------------------------ |
@@ -25,16 +25,16 @@ Trading: Integrated multiple dexchanges, Now supported: OneChain DEX, Newdex, Bi
 
 [ONE App Download](http://app.onechain.one/appstart.html)
 
-## Proposal for OKChain
+## Proposal for OKExChain
 
-ONE App new version has supported OKChain's testnet, social support OKChain users communication, wallet support OKChain all tokens, trade support OKChain all pairs, at the same time, support OKChain's stake voting, convenient user participation in OKChain ecology.
+ONE App new version has supported OKExChain's testnet, social support OKExChain users communication, wallet support OKExChain all tokens, trade support OKExChain all pairs, at the same time, support OKExChain's stake voting, convenient user participation in OKExChain ecology.
 
 Wallet:
  - Add/Remove Token
  - Transfer/Receive Token
  - Transaction history
  - Stake voting
- - OKChain explorer
+ - OKExChain explorer
 
 Trade：
  - Open/Cancel order
@@ -44,10 +44,12 @@ Trade：
  - kline view
  - Order book view
 
-[ONE Demo for OKChain](http://app1.haoduobi.cn/android/one320.apk)
+[ONE Demo for OKExChain](http://app1.haoduobi.cn/android/one320.apk)
 
-[User guide of ONE Demo for OKChain](https://github.com/onechainone/OIPs/wiki)
+[User guide of ONE Demo for OKExChain](https://github.com/onechainone/OIPs/wiki)
+
+[OneChain Video](https://m.youtube.com/watch?v=_KgYfgbazFk)
 
 
 ## Status
-ONE wallet already supported OKChain's testnet, after OKChain's mainnet go live, It will be released for the first time.
+ONE wallet already supported OKExChain's testnet, after OKExChain's mainnet go live, It will be released for the first time.

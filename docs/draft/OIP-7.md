@@ -1,6 +1,6 @@
-# NULS & OKChain Ecosystem Cooperation Proposal
+# NULS & OKExChain Ecosystem Cooperation Proposal
 
-(Full article at https://www.okex.com/academy/en/nuls-okchain-ecosystem-cooperation-proposal)
+(Full article at https://www.okex.com/academy/en/nuls-okexchain-ecosystem-cooperation-proposal)
 
 ![img](https://www.okex.com/academy/wp-content/uploads/2020/06/nuls.jpg)
 
@@ -38,9 +38,9 @@ Microservice architecture, modularization is more thorough, consensus mechanism 
 
 **Cooperation solutions**
 
-**1.**It is recommended that OKChain adopt Nerve heterogeneous cross-chain ecological cooperation
+**1.**It is recommended that OKExChain adopt Nerve heterogeneous cross-chain ecological cooperation
 
-**1.1** **It is recommended that OKChain join the Nerve virtual bank node**
+**1.1** **It is recommended that OKExChain join the Nerve virtual bank node**
 
 The project of NerveNetwork is willing to provide support for virtual bank nodes.
 
@@ -52,34 +52,34 @@ The virtual bank node assumes the role of cross-chain governance, voting on some
 
 **1.2 It is recommended that Nerve provide a heterogeneous cross-chain solution to help to support the access of mainstream assets such as BTC, ETH, ERC20, and NULS.**
 
-As a universal cross-chain protocol, Nerve will access various mainstream assets. The first batch of mainnet will access BTC, ETH, ERC20, NULS, NRC20 and other chain assets and contract assets. Through the connection with OKChain, it can provide rich assets access for OKChain and OKChain DEX, and can participate in the on-chain governance of these assets, which not only ensures the safety of assets, but also provides flexibly services for OKChain.
+As a universal cross-chain protocol, Nerve will access various mainstream assets. The first batch of mainnet will access BTC, ETH, ERC20, NULS, NRC20 and other chain assets and contract assets. Through the connection with OKExChain, it can provide rich assets access for OKExChain and OKExChain DEX, and can participate in the on-chain governance of these assets, which not only ensures the safety of assets, but also provides flexibly services for OKExChain.
 
 ![img](https://www.okex.com/academy/wp-content/uploads/2020/06/%E5%9B%BE%E7%89%872-9.png)
 
 **Nerve’s block generation time is confirmed within 3S. It adopts the POCBFT consensus mechanism and has no rollback transactions. It is very suitable as a lightning network solution for long-term confirmed mainstream assets.**
 
-**2. NULS and OKChain heterogeneous cross-chain ecological cooperation**
+**2. NULS and OKExChain heterogeneous cross-chain ecological cooperation**
 
 ![img](https://www.okex.com/academy/wp-content/uploads/2020/06/%E5%9B%BE%E7%89%873-10.png)
 
-**2.1 It is recommended that OKChain participates in the maintenance of NULS’ block generating nodes.**
+**2.1 It is recommended that OKExChain participates in the maintenance of NULS’ block generating nodes.**
 
 After becoming a virtual bank node, the pool not only has rewards from the Nerve virtual bank, but also rewards for generating blocks. The pool can also stake the holding NULS, Ethereum, and [Bitcoin](https://www.okex.com/academy/en)for Nerve’s mining output.
 
 **2.2 It is recommended that NULS smart contract DApp & Defi can support OKT asset access**
 
-All assets in Nerve can be transferred to the NULS chain through the NULS relay protocol. Assets on NULS chain can support the development and application of OKChain assets’ smart contracts. For example, the digital identity and distributed storage Aleph network on the NULS chain . and NULS have reached cooperation with Ledger.
+All assets in Nerve can be transferred to the NULS chain through the NULS relay protocol. Assets on NULS chain can support the development and application of OKExChain assets’ smart contracts. For example, the digital identity and distributed storage Aleph network on the NULS chain . and NULS have reached cooperation with Ledger.
 
 In addition, governance tools and POCM also can be quickly accessed.
 
-**2.3 It is recommended that the NULS Nabox wallet provide support for heterogeneous cross-chain assets from OKChain to NULS**
+**2.3 It is recommended that the NULS Nabox wallet provide support for heterogeneous cross-chain assets from OKExChain to NULS**
 
 
-The NULS ecological wallet Nabox App is currently used by 10000+ real users at high frequencies, and can support the access and storage of OKChain cross-chain assets.
+The NULS ecological wallet Nabox App is currently used by 10000+ real users at high frequencies, and can support the access and storage of OKExChain cross-chain assets.
 
 **3.Media Promotion**
 
-As a member of the OKChain ecosystem, NULS will provide aggregate resources, unite the media and traditional public opinion to raise the industry’s influence.
+As a member of the OKExChain ecosystem, NULS will provide aggregate resources, unite the media and traditional public opinion to raise the industry’s influence.
 
 - The media：HuoXing Finance，Jinse Finance，Beenews，Lianshijie, BightbcNews, PingCaiJin, FengLi.com, YunShi24.com,  bitett.com, Zilian8.com, maiyaotop.com, beipopfinance.com,  Deep Cloud Finance, CoinPlay, Munzixun.com,ect.
 - It can be Promoted by more than 10 KOLs with extensive influence on Weibo, Twitter and Youtube
