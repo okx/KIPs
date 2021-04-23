@@ -1,5 +1,5 @@
 
-# OIP-(16): OKExChain ＆ Cosmostation Validator Partership Proposal
+# KIP-(16): OKExChain ＆ Cosmostation Validator Partership Proposal
 
 | Author   | Cosmostation (@cosmostation) |
 | :------- | ---------------------- |

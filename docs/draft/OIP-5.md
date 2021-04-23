@@ -1,5 +1,5 @@
 
-# OIP-5: OKExChain ＆ Vite Partnership proposal
+# KIP-5: OKExChain ＆ Vite Partnership proposal
 
 | Author   | Vite Labs (@vitelabs) |
 | :------- | ---------------------- |

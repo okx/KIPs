@@ -1,4 +1,4 @@
-# OIP-6: SmartIns - Automatic agricultural insurance inferred from DL model on the blockchain
+# KIP-6: SmartIns - Automatic agricultural insurance inferred from DL model on the blockchain
 
 | Author   | AITEX                  |
 | :------- | ---------------------- |

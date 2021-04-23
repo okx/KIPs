@@ -1,4 +1,4 @@
-# OIP-12: OKExChain ＆ Bi23 Labs Partnership proposal
+# KIP-12: OKExChain ＆ Bi23 Labs Partnership proposal
 
 | Author        | Bi23 Labs      |
 | ------------- | -------------  |

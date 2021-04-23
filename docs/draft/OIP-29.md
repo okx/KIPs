@@ -1,4 +1,4 @@
-# OIP-28: OKChain developer community
+# KIP-28: OKChain developer community
 
 | Author   | rxun2003 |
 | :------- | ------------------------ |
@@ -13,7 +13,7 @@ A rich blockchain ecosystem cannot do without the dedication of a group of excel
 
 ## 2. Summary
 
-This OIP aims to provide a convenient communication platform for developers.
+This KIP aims to provide a convenient communication platform for developers.
 
 ## 3. Proposal
 

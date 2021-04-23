@@ -1,4 +1,4 @@
-# OIP-9: Newpool - The New Generation of Staking Pool
+# KIP-9: Newpool - The New Generation of Staking Pool
 
 | Author   | hbin(@newdex)          |
 | :------- | ---------------------- |

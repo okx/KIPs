@@ -1,4 +1,4 @@
-# OIP-17：ONE mobile wallet for OKExChain by OneChain
+# KIP-17：ONE mobile wallet for OKExChain by OneChain
 
 | Author   | onechainone (@onechainone) |
 | -------- | ------------------------ |
@@ -46,7 +46,7 @@ Trade：
 
 [ONE Demo for OKExChain](http://app1.haoduobi.cn/android/one320.apk)
 
-[User guide of ONE Demo for OKExChain](https://github.com/onechainone/OIPs/wiki)
+[User guide of ONE Demo for OKExChain](https://github.com/onechainone/KIPs/wiki)
 
 [OneChain Video](https://m.youtube.com/watch?v=_KgYfgbazFk)
 

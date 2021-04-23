@@ -61,4 +61,4 @@ Through **OKDex** it is possible doing decentralized trading (through different 
 
 ## Status
 
-This OIP is under implementation.
+This KIP is under implementation.

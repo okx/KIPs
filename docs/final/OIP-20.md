@@ -1,4 +1,4 @@
-# OIP-20: Smart Contract Tokens on OKExChain
+# KIP-20: Smart Contract Tokens on OKExChain
 
 | Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
@@ -9,7 +9,7 @@
 
 ## 1. Summary
 
-This OIP is a  standard interface for smart contract tokens.
+This KIP is a  standard interface for smart contract tokens.
 
 ## 2. Abstract
 
@@ -17,7 +17,7 @@ The following standard allows for the implementation of a standard API for token
 
 ## 3. Status
 
-This OIP is implemented.
+This KIP is implemented.
 
 ## 4. Motivation
 

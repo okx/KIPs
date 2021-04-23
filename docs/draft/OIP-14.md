@@ -1,5 +1,5 @@
 
-# OIP-14: OKExChain ＆ Squeezer Partnership proposal
+# KIP-14: OKExChain ＆ Squeezer Partnership proposal
 
 | Author   | Squeezer.IO (@SqueezerIO) |
 | :------- | ---------------------- |

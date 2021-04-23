@@ -1,4 +1,4 @@
-# OIP-33: DelegateProxy
+# KIP-33: DelegateProxy
 
 | Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
@@ -19,7 +19,7 @@ We don’t believe there is value in standardizing any particular implementation
 
 ## 3. Status
 
-This OIP is implemented.
+This KIP is implemented.
 
 
 ## 4. Implementations

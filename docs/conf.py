@@ -1,4 +1,4 @@
-from okchain1.theme.rtd.conf.okchain_oips import *
+from okchain1.theme.rtd.conf.okchain_kips import *
 
 # 支持md格式
 from recommonmark.parser import CommonMarkParser

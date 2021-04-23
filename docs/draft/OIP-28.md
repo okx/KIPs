@@ -1,4 +1,4 @@
-# OIP-(27): MixSwap
+# KIP-(27): MixSwap
 
 | Author   | Zhang Xiang |
 | :------- | ---------------------- |
