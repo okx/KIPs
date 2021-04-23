@@ -1,4 +1,4 @@
-# OIP-30: OKChain ＆ DAppBirds Partnership proposal
+# KIP-30: OKChain ＆ DAppBirds Partnership proposal
 
 | Author   | DappBirds Labs (@DAppBirds-Labs) |
 | :------- | ---------------------- |
@@ -16,27 +16,27 @@ Team complete the OKChain OKT Vote Tool.
 - github: https://github.com/DAppBirds-Labs/okchain-staking-vote
 - preview images
 
-![image](/docs/assets/OIP-30/home.png)
+![image](/docs/assets/KIP-30/home.png)
 home page
 
 ---
 
-![image](/docs/assets/OIP-30/deposit.png)
+![image](/docs/assets/KIP-30/deposit.png)
 
 deposit action
 
 ---
 
-![image](/docs/assets/OIP-30/add_shares.png)
+![image](/docs/assets/KIP-30/add_shares.png)
 add shares action
 
 ---
 
-![image](/docs/assets/OIP-30/validator_detail.png)
+![image](/docs/assets/KIP-30/validator_detail.png)
 validator detail page
 
 ---
-![image](/docs/assets/OIP-30/profile.png)
+![image](/docs/assets/KIP-30/profile.png)
 profile info
 
 ## Introduction
@@ -65,7 +65,7 @@ In terms of governance, OKChain adopts the super node election rules and dividen
 
 #### 1.2 Functional structure
 
-![image](/docs/assets/OIP-30/func-struct.png)
+![image](/docs/assets/KIP-30/func-struct.png)
 
 #### 1.3 Solution
 

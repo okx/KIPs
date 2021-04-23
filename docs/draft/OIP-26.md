@@ -1,4 +1,4 @@
-# OIP-26：Qingah wallet for OKExChain by BitVate
+# KIP-26：Qingah wallet for OKExChain by BitVate
 
 | Author   | kilmas (kilmas@qq.com) |
 | -------- | ------------------------ |

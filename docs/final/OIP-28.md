@@ -1,4 +1,4 @@
-# OIP-28: OKExChain Validator Profile
+# KIP-28: OKExChain Validator Profile
 
 | Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
@@ -9,19 +9,19 @@
 
 ## 1. Summary
 
-This OIP sets up a validator profile template for validators to apply to.
+This KIP sets up a validator profile template for validators to apply to.
 
 ## 2. Abstract
 
-OIP-28 Proposal is about a standard of validator profile. Validators should fill in their profile following the template and put their profile on their websites like http://www.yourwebsites.com/validator.json  
+KIP-28 Proposal is about a standard of validator profile. Validators should fill in their profile following the template and put their profile on their websites like http://www.yourwebsites.com/validator.json  
 
 ## 3. Status
 
-This OIP is implemented.
+This KIP is implemented.
 
 ## 4. Motivation
 
-This OIP make users know more about OKExChain Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
+This KIP make users know more about OKExChain Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
 
 ## 5. Specification
 

@@ -1,4 +1,4 @@
-# OIP-2: OKExChain ＆ FIBOS Partnership proposal
+# KIP-2: OKExChain ＆ FIBOS Partnership proposal
 
 | Author   | FIBOS (@FIBOSIO) |
 | :------- | ---------------- |

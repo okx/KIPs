@@ -1,4 +1,4 @@
-# OIP-24: DEX MarketMaker
+# KIP-24: DEX MarketMaker
 
 | Author   | Kevin-OpenSource-Labs |
 | :------- | ------------------------ |
@@ -15,7 +15,7 @@ DEXMarketMaker can work as a simple market maker bot provide liquidity for speci
 
 ## 2. Summary
 
-This OIP aims to provide a market maker frameworker for okex dex.
+This KIP aims to provide a market maker frameworker for okex dex.
 
 ## 3. Proposal
 
@@ -39,6 +39,6 @@ The component is responsible for risk control, include but not limited to hedge 
 
 ## 4. Status
 
-This OIP is under implementation based on okexchain-java-sdk.
+This KIP is under implementation based on okexchain-java-sdk.
 
 The open source project URL is: https://github.com/Kevin-OpenSource-Labs/DEXMarketMaker

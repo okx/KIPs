@@ -1,4 +1,4 @@
-# OIP-4: OKExChain ＆ Kava Partnership proposal
+# KIP-4: OKExChain ＆ Kava Partnership proposal
 
 | Author   | Kava Labs (@Kava-Labs) |
 | :------- | ---------------------- |

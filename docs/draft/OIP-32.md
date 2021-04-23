@@ -1,4 +1,4 @@
-# OIP-32: Mobile wallet
+# KIP-32: Mobile wallet
 
 | Author   | Zhang Feng(@ChainsGuard) |
 | :------- | ------------------------ |
@@ -19,7 +19,7 @@ Web Site：[https://www.chainsguard.com/](https://www.chainsguard.com/)
 
 ## 2. Summary
 
-This OIP aims to provide a secure mobile wallet solution for OKExChain ecology.
+This KIP aims to provide a secure mobile wallet solution for OKExChain ecology.
 
 ## 3. Proposal
 

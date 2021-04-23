@@ -1,4 +1,4 @@
-# OIP-24: OKEXChain validator management platform 
+# KIP-24: OKEXChain validator management platform 
 
 | Author   | ambition1921 |
 | :------- | ------------------------ |
@@ -13,7 +13,7 @@ For the validator administrators, it is particularly important to obtain the sta
 
 ## 2. Summary
 
-This OIP aims to provide a validator manage platform for okexchain validator's user.
+This KIP aims to provide a validator manage platform for okexchain validator's user.
 
 ## 3. Proposal
 
@@ -30,7 +30,7 @@ This OIP aims to provide a validator manage platform for okexchain validator's u
 
 ## 4. Status
 
-This OIP has been completed.   
+This KIP has been completed.   
 [Introduction and demonstration video website](https://v.youku.com/v_show/id_XNDc5OTA4MTUxMg==.html)<br>
 [User Manual](https://pan.baidu.com/s/1HK5ZA_XqWqXCZg2i0IscLA) https://pan.baidu.com/s/1HK5ZA_XqWqXCZg2i0IscLA   
 **access passowrd：o9cg**

@@ -1,4 +1,4 @@
-# OIP-33: Standard Proxy Storage Slots
+# KIP-33: Standard Proxy Storage Slots
 
 | Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
@@ -15,11 +15,11 @@ Standardise how proxies store the address of the logic contract they delegate to
 
 Delegating **proxy contracts** are widely used for both upgradeability and gas savings. These proxies rely on a **logic contract** (also known as implementation contract or master copy) that is called using ```delegatecall```. This allows proxies to keep a persistent state (storage and balance) while the code is delegated to the logic contract.
 
-To avoid clashes in storage usage between the proxy and logic contract, the address of the logic contract is typically saved in a [specific storage slot](https://blog.zeppelinos.org/upgradeability-using-unstructured-storage/) guaranteed to be never allocated by a compiler. This OIP proposes a set of standard slots to store proxy information. This allows clients like block explorers to properly extract and show this information to end users, and logic contracts to optionally act upon it.
+To avoid clashes in storage usage between the proxy and logic contract, the address of the logic contract is typically saved in a [specific storage slot](https://blog.zeppelinos.org/upgradeability-using-unstructured-storage/) guaranteed to be never allocated by a compiler. This KIP proposes a set of standard slots to store proxy information. This allows clients like block explorers to properly extract and show this information to end users, and logic contracts to optionally act upon it.
 
 ## 3. Status
 
-This OIP is implemented.
+This KIP is implemented.
 
 
 ## 4. Motivation
@@ -39,7 +39,7 @@ The main requirement for the storage slots chosen is that they must never be pic
 
 As such, the proposed storage slots for proxy-specific information are the following. They are chosen in such a way so they are guaranteed to not clash with state variables allocated by the compiler, since they depend on the hash of a string that does not start with a storage index. Furthermore, a ```-1``` offset is added so the preimage of the hash cannot be known, further reducing the chances of a possible attack.
 
-More slots for additional information can be added in subsequent OIPs as needed.
+More slots for additional information can be added in subsequent KIPs as needed.
 
 
 ###Logic contract address 

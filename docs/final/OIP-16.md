@@ -1,4 +1,4 @@
-# OIP-16: Tokens on OKExChain
+# KIP-16: Tokens on OKExChain
 
 | Author   | Ocean Fan (@OKExChain)  |
 | -------  | --------------------- |
@@ -9,15 +9,15 @@
 
 ## 1. Summary
 
-This OIP is a proposal for token management on the OKExChain.
+This KIP is a proposal for token management on the OKExChain.
 
 ## 2. Abstract
 
-OIP-16 Proposal is about a standard set of rules for token management on the OKExChain. It subscribes 2 things of the token on OKExChain in detail: 1 What properties a token on OKExChain have. 2 What actions can be performed on a token of OKExChain.
+KIP-16 Proposal is about a standard set of rules for token management on the OKExChain. It subscribes 2 things of the token on OKExChain in detail: 1 What properties a token on OKExChain have. 2 What actions can be performed on a token of OKExChain.
 
 ## 3. Status
 
-This OIP is implemented.
+This KIP is implemented.
 
 ## 4. Motivation
 
@@ -35,7 +35,7 @@ The issuance of OKT, the native asset on OKExChain, will be on the genesis block
 - OriginalSymbol: OriginalSymbol is the identifier you named for the token. e.g. "BTC"
 - Symbol: Symbol is the OriginalSymbol added with a random suffix when created. - e.g. "BTC-B70"
 - WholeName: WholeName is the long name of the token - e.g. "OKExChain Token".
-- Type: The token type of the issued token: 1 for token issued by token module, 2 for token issued by tokenswap module. Reference for tokenswap(OIP3-OKExChain Token Swap)
+- Type: The token type of the issued token: 1 for token issued by token module, 2 for token issued by tokenswap module. Reference for tokenswap(KIP3-OKExChain Token Swap)
 - OriginalTotalSupply: Total supply will be the total number of issued tokens.
 - Mintable: Mintable means whether this asset can be issued more than once, which would increase the total supply of the token.
 

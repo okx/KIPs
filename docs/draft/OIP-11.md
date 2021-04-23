@@ -1,4 +1,4 @@
-# OIP-11: OKExChain Rust SDK
+# KIP-11: OKExChain Rust SDK
 
 | Author   | Jihui Zheng (@zjhmale) |
 | :------- | ---------------------- |
@@ -11,7 +11,7 @@
 
 Rust is widely used in cryptocurrency world including blockchain system, exchange matching engine, smart contract etc.
 
-This OIP is intend to develop a fully functional SDK for OKExChain base on Rust.
+This KIP is intend to develop a fully functional SDK for OKExChain base on Rust.
 
 The project:
 

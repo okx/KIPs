@@ -1,4 +1,4 @@
-# OIP-8: EVM
+# KIP-8: EVM
 
 | Author   | iavl(@NetCloth) |
 | :------- | --------------------- |
@@ -9,11 +9,11 @@
 
 ## 1. Summary
 
-This OIP is about introducing EVM for OKExChain to support running smart contracts.
+This KIP is about introducing EVM for OKExChain to support running smart contracts.
 
 ## 2. Abstract­
 
-This OIP defines transactions and messages to support running smart contracts on OKExChain.
+This KIP defines transactions and messages to support running smart contracts on OKExChain.
 
 ## 3. Status
 
@@ -27,7 +27,7 @@ As the underlying runtime environment of smart contracts, EVM is currently the m
 
 Running smart contracts is one of OKExChain's ecological directions.
 
-The OIP is to conclude the target, to realize self-operation in the era of blockchain.
+The KIP is to conclude the target, to realize self-operation in the era of blockchain.
 
 ## 5. Specification
 

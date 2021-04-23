@@ -1,4 +1,4 @@
-# OIP-31: OKEXChain python SDK
+# KIP-31: OKEXChain python SDK
 
 | Author   | ambition1921 |
 | :------- | ------------------------ |
@@ -12,7 +12,7 @@ Now, OKEXChain software ecosystem is lack of competitive DAPPS. One important re
 
 ## 2. Summary
 
-This OIP aims to provide a python sdk for OKEXChain.
+This KIP aims to provide a python sdk for OKEXChain.
 
 ## 3. Proposal
 
