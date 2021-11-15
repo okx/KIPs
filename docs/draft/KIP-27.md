@@ -1,4 +1,4 @@
-# KIP-(27): Tavitt ＆ OKExChain Partership Proposal
+# KIP-(27): Tavitt ＆ OEC Partership Proposal
 
 | Author   | Cosmostation (@cosmostation) |
 | :------- | ---------------------- |

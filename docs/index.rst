@@ -1,14 +1,14 @@
 .. _index:
-.. okexchain-docs documentation master file, created by
+.. oec-docs documentation master file, created by
    sphinx-quickstart on Tue Jan  7 11:23:39 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 
-OKExChain Improvement Proposals (KIPs)
+OEC Improvement Proposals (KIPs)
 ====================================
 
-OKExChain Improvement Proposals (KIPs) describe standards for the OKExChain
+OEC Improvement Proposals (KIPs) describe standards for the OEC
 platform, including core protocol specifications, client APIs, and
 contract standards.
 
@@ -18,7 +18,7 @@ Contributing
 1. Review KIP-1.
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your KIP to your fork of the repository.
-4. Submit a Pull Request to OKExChain's KIPs repository.
+4. Submit a Pull Request to OEC's KIPs repository.
 
 Once your first PR is merged, we have a bot that helps out by
 automatically merging PRs to draft KIPs. For this to work, it has to be

@@ -51,4 +51,4 @@ swagger:
           example: 'OKt'
         info:
           type: string
-          example: Okchain wallet.
+          example: OEC wallet.

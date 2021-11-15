@@ -1,6 +1,6 @@
-# KIP-28: OKExChain Validator Profile
+# KIP-28: OEC Validator Profile
 
-| Author   | Ocean Fan (@OKExChain)  |
+| Author   | Ocean Fan (@OEC)  |
 | -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |
@@ -21,7 +21,7 @@ This KIP is implemented.
 
 ## 4. Motivation
 
-This KIP make users know more about OKExChain Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
+This KIP make users know more about OEC Validators Info. When validators finished their profile, it'll be easy for delegators or blockchain explorers to get information of validators. 
 
 ## 5. Specification
 
@@ -42,9 +42,9 @@ This KIP make users know more about OKExChain Validators Info. When validators f
     "website": "",
     "email": "",
     "branding":{
-      "logo_256":"http://www.xxxxx.com/logo/OKExChain-256.png",
-      "logo_1024":"http://www.xxxxx.com/logo/OKExChain-1024.png",
-      "logo_svg":"http://www.xxxxx.com/logo/OKExChain-logo.svg"
+      "logo_256":"http://www.xxxxx.com/logo/OEC-256.png",
+      "logo_1024":"http://www.xxxxx.com/logo/OEC-1024.png",
+      "logo_svg":"http://www.xxxxx.com/logo/OEC-logo.svg"
       
     },
     "location": "City, Country",

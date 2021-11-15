@@ -3,7 +3,7 @@ KIP: 1
 title: KIP Purpose and Guidelines
 status: Active
 type: Meta
-author: OKExChain core developers <okexchain@okcoin.net> 
+author: OEC core developers <okexchain@okcoin.net> 
 created: 2020-04-01
 updated: 2020-04-01
 -->
@@ -12,24 +12,24 @@ updated: 2020-04-01
 
 ## What is an KIP?
 
-KIP stands for OKExChain Improvement Proposal. An KIP is a design document providing information to the OKExChain community, or describing a new feature for OKExChain or its processes or environment. The KIP should provide a concise technical specification of the feature and a rationale for the feature. The KIP author is responsible for building consensus within the community and documenting dissenting opinions.
+KIP stands for OEC Improvement Proposal. An KIP is a design document providing information to the OEC community, or describing a new feature for OEC or its processes or environment. The KIP should provide a concise technical specification of the feature and a rationale for the feature. The KIP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## KIP Rationale
 
-We intend KIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into OKExChain. Because the KIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+We intend KIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into OEC. Because the KIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
 
-For OKExChain implementers, KIPs are a convenient way to track the progress of their implementation. Ideally each implementation maintainer would list the KIPs that they have implemented. This will give end users a convenient way to know the current status of a given implementation or library.
+For OEC implementers, KIPs are a convenient way to track the progress of their implementation. Ideally each implementation maintainer would list the KIPs that they have implemented. This will give end users a convenient way to know the current status of a given implementation or library.
 
 ## KIP Types
 
 There are three types of KIP:
 
-- A **Standard Track KIP** describes any change that affects most or all OKExChain implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using OKExChain. Furthermore Standard KIPs can be broken down into the following categories. 
+- A **Standard Track KIP** describes any change that affects most or all OEC implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using OEC. Furthermore Standard KIPs can be broken down into the following categories. 
   - **Matchingtrading Engine** - improvements around matching trading engine.
   - **Application Module** - includes improvements around module-level standards, like Bank, Dex, and Bankend. 
   - **Interface** - includes improvements around client [API/RPC] specifications and standards, and also certain language-level standards . The label “interface” aligns with the [interfaces repo] and discussion should primarily occur in that repository before an KIP is submitted to the KIPs repository.
 
-- A **Meta KIP** describes a process surrounding OKExChain or proposes a change to (or an event in) a process. Process KIPs are like Standards Track KIPs but apply to areas other than the OKExChain protocol itself. They may propose an implementation, but not to OKExChain's codebase; they often require community consensus;  they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in OKExChain development. Any meta-KIP is also considered a Process KIP.
+- A **Meta KIP** describes a process surrounding OEC or proposes a change to (or an event in) a process. Process KIPs are like Standards Track KIPs but apply to areas other than the OEC protocol itself. They may propose an implementation, but not to OEC's codebase; they often require community consensus;  they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in OEC development. Any meta-KIP is also considered a Process KIP.
 
 
 It is highly recommended that a single KIP contain a single key proposal or new idea. The more focused the KIP, the more successful it tends to be. A change to one client doesn't require an KIP; a change that affects multiple clients, or defines a standard for multiple apps to use, does.
@@ -42,11 +42,11 @@ An KIP must meet certain minimum criteria. It must be a clear and complete descr
 
 ### Shepherding an KIP
 
-Parties involved in the process are you, the champion or *KIP author*, the [*KIP editors*](#KIP-editors), and the [*OKExChain Core Developers*](https://github.com/okex/okexchain-pm).
+Parties involved in the process are you, the champion or *KIP author*, the [*KIP editors*](#KIP-editors), and the [*OEC Core Developers*](https://github.com/okex/okexchain-pm).
 
-Before you begin writing a formal KIP, you should vet your idea. Ask the OKExChain community first if an idea is original to avoid wasting time on something that will be be rejected based on prior research. It is thus recommended to open a discussion thread on [the OKExChain Magicians forum] to do this, but you can also use [one of the OKExChain Gitter chat rooms], [the OKExChain subreddit] or [the Issues section of this repository]. 
+Before you begin writing a formal KIP, you should vet your idea. Ask the OEC community first if an idea is original to avoid wasting time on something that will be be rejected based on prior research. It is thus recommended to open a discussion thread on [the OEC Magicians forum] to do this, but you can also use [one of the OEC Gitter chat rooms], [the OEC subreddit] or [the Issues section of this repository]. 
 
-In addition to making sure your idea is original, it will be your role as the author to make your idea clear to reviewers and interested parties, as well as inviting editors, developers and community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your KIP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. For example, the work required for implementing a Core KIP will be much greater than for an ERC and the KIP will need sufficient interest from the OKExChain client teams. Negative community feedback will be taken into consideration and may prevent your KIP from moving past the Draft stage.
+In addition to making sure your idea is original, it will be your role as the author to make your idea clear to reviewers and interested parties, as well as inviting editors, developers and community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your KIP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. For example, the work required for implementing a Core KIP will be much greater than for an ERC and the KIP will need sufficient interest from the OEC client teams. Negative community feedback will be taken into consideration and may prevent your KIP from moving past the Draft stage.
 
 ### Matching trading Engine KIPs
 
@@ -58,7 +58,7 @@ The AllCoreDevs call serve as a way for client implementers to do three things. 
 
 These calls generally result in a "rough consensus" around what KIPs should be implemented. This "rough consensus" rests on the assumptions that KIPs are not contentious enough to cause a network split and that they are technically sound.
 
-warning: The KIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them. This puts the burden on client implementers to try and gauge community sentiment, which hinders the technical coordination function of KIPs and AllCoreDevs calls. If you are shepherding an KIP, you can make the process of building community consensus easier by making sure that [the OKExChain Magicians forum] thread for your KIP includes or links to as much of the community discussion as possible and that various stakeholders are well-represented.
+warning: The KIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them. This puts the burden on client implementers to try and gauge community sentiment, which hinders the technical coordination function of KIPs and AllCoreDevs calls. If you are shepherding an KIP, you can make the process of building community consensus easier by making sure that [the OEC Magicians forum] thread for your KIP includes or links to as much of the community discussion as possible and that various stakeholders are well-represented.
 
 *In short, your role as the champion is to write the KIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea.* 
 
@@ -78,7 +78,7 @@ Following is the process that a successful Matching trading Engine KIP will move
 
 Each status change is requested by the KIP author and reviewed by the KIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your KIP. The KIP editors will process these requests as per the conditions below.
 
-* **Idea** -- Once the champion has asked the OKExChain community whether an idea has any chance of support, they will write a draft KIP as a [pull request]. Consider including an implementation if this will aid people in studying the KIP.
+* **Idea** -- Once the champion has asked the OEC community whether an idea has any chance of support, they will write a draft KIP as a [pull request]. Consider including an implementation if this will aid people in studying the KIP.
   * :arrow_right: Draft -- If agreeable, KIP editor will assign the KIP a number (generally the issue or PR number related to the KIP) and merge your pull request. The KIP editor will not unreasonably deny an KIP.
   * :x: Draft -- Reasons for denying draft status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing backwards compatibility.
 * **Draft** -- Once the first draft has been merged, you may submit follow-up pull requests with further changes to your draft until such point as you believe the KIP to be mature and ready to proceed to the next status. An KIP in draft status must be implemented to be considered for promotion to the next status (ignore this requirement for core KIPs).
@@ -88,10 +88,10 @@ Each status change is requested by the KIP author and reviewed by the KIP editor
   * :x: -- A Last Call which results in material changes or substantial unaddressed technical complaints will cause the KIP to revert to Draft.
   * :arrow_right: Accepted (Core KIPs only) -- A successful Last Call without material changes or unaddressed technical complaints will become Accepted.
   * :arrow_right: Final (Non-Core KIPs) -- A successful Last Call without material changes or unaddressed technical complaints will become Final.
-* **Accepted (Core KIPs only)** -- This status signals that material changes are unlikely and OKExChain client developers should consider this KIP for inclusion. Their process for deciding whether to encode it into their clients as part of a hard fork is not part of the KIP process.
+* **Accepted (Core KIPs only)** -- This status signals that material changes are unlikely and OEC client developers should consider this KIP for inclusion. Their process for deciding whether to encode it into their clients as part of a hard fork is not part of the KIP process.
   * :arrow_right: Draft -- The Core Devs can decide to move this KIP back to the Draft status at their discretion. E.g. a major, but correctable, flaw was found in the KIP.
   * :arrow_right: Rejected -- The Core Devs can decide to mark this KIP as Rejected at their discretion. E.g. a major, but uncorrectable, flaw was found in the KIP.
-  * :arrow_right: Final -- Standards Track Core KIPs must be implemented in at least three viable OKExChain clients before it can be considered Final. When the implementation is complete and adopted by the community, the status will be changed to “Final”.
+  * :arrow_right: Final -- Standards Track Core KIPs must be implemented in at least three viable OEC clients before it can be considered Final. When the implementation is complete and adopted by the community, the status will be changed to “Final”.
 * **Final** -- This KIP represents the current state-of-the-art. A Final KIP should only be updated to correct errata.
 
 Other exceptional statuses include:
@@ -108,8 +108,8 @@ Each KIP should have the following parts:
 
 - Preamble - RFC 822 style headers containing metadata about the KIP, including the KIP number, a short descriptive title (limited to a maximum of 44 characters), and the author details. See [below]() for details.
 - Abstract - A short (~200 word) description of the technical issue being addressed.
-- Motivation (*optional) - The motivation is critical for KIPs that want to change the OKExChain protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the KIP solves. KIP submissions without sufficient motivation may be rejected outright.
-- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OKExChain platforms (go-okexchain,[and others]().
+- Motivation (*optional) - The motivation is critical for KIPs that want to change the OEC protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the KIP solves. KIP submissions without sufficient motivation may be rejected outright.
+- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current OEC platforms (go-okexchain,[and others]().
 - Rationale - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 - Backwards Compatibility - All KIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The KIP must explain how the author proposes to deal with these incompatibilities. KIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 - Test Cases - Test cases for an implementation are mandatory for KIPs that are affecting consensus changes. Other KIPs can choose to include links to test cases if applicable.
@@ -180,7 +180,7 @@ The `resolution` header is required for Standards Track KIPs only. It contains a
 
 #### `discussions-to` header
 
-While an KIP is a draft, a `discussions-to` header will indicate the mailing list or URL where the KIP is being discussed. As mentioned above, examples for places to discuss your KIP include [OKExChain topics on Gitter](), an issue in this repo or in a fork of this repo, [OKExChain Magicians]() (this is suitable for KIPs that may be contentious or have a strong governance aspect), and [Reddit r/OKExChain]().
+While an KIP is a draft, a `discussions-to` header will indicate the mailing list or URL where the KIP is being discussed. As mentioned above, examples for places to discuss your KIP include [OEC topics on Gitter](), an issue in this repo or in a fork of this repo, [OEC Magicians]() (this is suitable for KIPs that may be contentious or have a strong governance aspect), and [Reddit r/OEC]().
 
 No `discussions-to` header is necessary if the KIP is being discussed privately with the author.
 
@@ -239,13 +239,13 @@ Once the KIP is ready for the repository, the KIP editor will:
 
 - Send a message back to the KIP author with the next step.
 
-Many KIPs are written and maintained by developers with write access to the OKExChain codebase. The KIP editors monitor KIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
+Many KIPs are written and maintained by developers with write access to the OEC codebase. The KIP editors monitor KIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
 
 The editors don't pass judgment on KIPs. We merely do the administrative & editorial part.
 
 ## History
 
-This document was derived heavily from [Ethereum's EIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OKExChain Improvement Process, and should not be bothered with technical questions specific to OKExChain or the KIP. Please direct all comments to the KIP editors.
+This document was derived heavily from [Ethereum's EIP-0001] written by Martin Becze, Hudson Jameson, and others which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use in the OEC Improvement Process, and should not be bothered with technical questions specific to OEC or the KIP. Please direct all comments to the KIP editors.
 
 
 

@@ -1,6 +1,6 @@
 # KIP-33: Standard Proxy Storage Slots
 
-| Author   | Ocean Fan (@OKExChain)  |
+| Author   | Ocean Fan (@OEC)  |
 | -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |

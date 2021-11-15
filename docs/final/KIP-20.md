@@ -1,6 +1,6 @@
-# KIP-20: Smart Contract Tokens on OKExChain
+# KIP-20: Smart Contract Tokens on OEC
 
-| Author   | Ocean Fan (@OKExChain)  |
+| Author   | Ocean Fan (@OEC)  |
 | -------  | --------------------- |
 | Status   | Implemented           |
 | Type     | Standard Track        |
