@@ -10,7 +10,7 @@
 
 **Math Wallet** is a multi-platform (mobile/desktop/hardware) universal crypto wallet.
 
-Math Wallet enables storage of all ETH, ETC, EOS, TRON, BinanceChain, Cosmos, IRISnet, OKExChain, ChainX, Polkadot tokens.
+Math Wallet enables storage of all ETH, ETC, EOS, TRON, BinanceChain, Cosmos, IRISnet, OEC, ChainX, Polkadot tokens.
 
 Math Wallet is the ONLY extension wallet that support multi-chain dApps.
 
@@ -35,10 +35,10 @@ https://www.mathwallet.org
 
 ## Video & Sources
 ####
-[OKExChain Web Wallet Operation Video - MathWallet](https://youtu.be/fyslU4Bc0xY)
+[OEC Web Wallet Operation Video - MathWallet](https://youtu.be/fyslU4Bc0xY)
 
 #### Web Wallet
-[https://mathwallet.org/web/okexchain](https://mathwallet.org/web/okchain) 
+[https://mathwallet.org/web/oec](https://mathwallet.org/web/okchain) 
 
 [Source Code](https://github.com/mathwallet/math-okchain-web-wallet)
 

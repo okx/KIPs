@@ -1,5 +1,5 @@
 
-# KIP-14: OKExChain ＆ Squeezer Partnership proposal
+# KIP-14: OEC ＆ Squeezer Partnership proposal
 
 | Author   | Squeezer.IO (@SqueezerIO) |
 | :------- | ---------------------- |
@@ -31,15 +31,15 @@ Squeezer:
 - https://squeezer.io
 - https://github.com/SqueezerIO
 
-### About OKExChain
+### About OEC
 
-[OKExChain](https://www.okex.com/okexchain) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
+[OEC](https://www.okex.com/oec) is a public blockchain and independently developed by the world-leading digital asset exchange OKEX. It was 100% open-sourced on April 16, 2020.
 
-OKExChain: https://www.okex.com/okexchain
+OEC: https://www.okex.com/oec
 
 ## Details of Plan
 
-Use Squeezer to develop 2-way payment systems for inbound/outbound transactions on the top of OKExChain for different crypto assets.
+Use Squeezer to develop 2-way payment systems for inbound/outbound transactions on the top of OEC for different crypto assets.
 
 ### Where does a two-way payment system fit in?
 

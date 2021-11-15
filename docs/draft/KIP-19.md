@@ -1,4 +1,4 @@
-# OKExChain & BTSPP Partnership Proposal
+# OEC & BTSPP Partnership Proposal
 
 ## Introduction
 
@@ -11,5 +11,5 @@ As the originator of the DEX team in the BitShares community, think deeply, summ
 
 ### Cooperation Plan
 
-By depositing and summarizing product experience in the BTS community, analyzing and understanding user needs, the BTSPP team hopes to provide OKExChain with a dedicated and complete blockchain browser to provide users with accurate and reliable on-chain information query.
+By depositing and summarizing product experience in the BTS community, analyzing and understanding user needs, the BTSPP team hopes to provide OEC with a dedicated and complete blockchain browser to provide users with accurate and reliable on-chain information query.
 In the future, the team is also preparing to develop and integrate products such as community forums and exclusive wallets, with the goal of building a comprehensive and stable infrastructure.

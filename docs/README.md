@@ -1,11 +1,11 @@
-# OKExChain Improvement Proposals (KIPs)
-OKExChain Improvement Proposals (KIPs) describe standards for the OKExChain platform, including core protocol specifications, client APIs, and contract standards.
+# OEC Improvement Proposals (KIPs)
+OEC Improvement Proposals (KIPs) describe standards for the OEC platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
 1.	Review KIP-1.
 2.	Fork the repository by clicking "Fork" in the top right.
 3.	Add your KIP to your fork of the repository. 
-4.	Submit a Pull Request to OKExChain's KIPs repository.
+4.	Submit a Pull Request to OEC's KIPs repository.
 
 Once your first PR is merged, we have a bot that helps out by automatically merging PRs to draft KIPs. For this to work, it has to be able to tell that you own the draft being edited. Make sure that the 'author' line of your KIP contains either your GitHub username or your email address inside. 
 

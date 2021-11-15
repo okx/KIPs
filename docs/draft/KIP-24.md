@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-User can create their own token on OKExChain and allow other users to trade it. But sometimes the tokens are lack of liquidity.
+User can create their own token on OEC and allow other users to trade it. But sometimes the tokens are lack of liquidity.
 
 DEXMarketMaker can work as a simple market maker bot provide liquidity for specific token. User also can implment their own sophisticated market maker based on it to work as a profitable bot.
 
@@ -39,6 +39,6 @@ The component is responsible for risk control, include but not limited to hedge 
 
 ## 4. Status
 
-This KIP is under implementation based on okexchain-java-sdk.
+This KIP is under implementation based on `exchain-java-sdk`.
 
 The open source project URL is: https://github.com/Kevin-OpenSource-Labs/DEXMarketMaker

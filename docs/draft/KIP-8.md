@@ -9,11 +9,11 @@
 
 ## 1. Summary
 
-This KIP is about introducing EVM for OKExChain to support running smart contracts.
+This KIP is about introducing EVM for OEC to support running smart contracts.
 
 ## 2. Abstract­
 
-This KIP defines transactions and messages to support running smart contracts on OKExChain.
+This KIP defines transactions and messages to support running smart contracts on OEC.
 
 ## 3. Status
 
@@ -25,7 +25,7 @@ Docs: https://github.com/iavl/okexchain/tree/iavl-evm/docs/evm
 
 As the underlying runtime environment of smart contracts, EVM is currently the most mature virtual machine running on the blockchain.
 
-Running smart contracts is one of OKExChain's ecological directions.
+Running smart contracts is one of OEC's ecological directions.
 
 The KIP is to conclude the target, to realize self-operation in the era of blockchain.
 

@@ -10,8 +10,8 @@
 ## 1. Introduction
 
 ### What is MixSwap? 
-MixSwap is an on-chain system on the okchain blockchain, implementing an automated liquidity protocol based on a “constant product formula”. 
-Traders pay a 30-basis-point fee on trades, which goes to liquidity providers. Supporting only pairs between Token on okchain and OKT.
+MixSwap is an on-chain system on the oec blockchain, implementing an automated liquidity protocol based on a “constant product formula”. 
+Traders pay a 30-basis-point fee on trades, which goes to liquidity providers. Supporting only pairs between Token on oec and OKT.
 
 ### Features & How it works
 - Swap Token to OKT And Swap OKT to Token

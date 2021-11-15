@@ -1,6 +1,6 @@
 # KIP-3: Token Swap
 
-| Author   | William Liu(@OKExChain) |
+| Author   | William Liu(@OEC) |
 | :------- | --------------------- |
 | Status   | Draft                 |
 | Type     | Standard Track        |
@@ -13,7 +13,7 @@ This KIP is about introducing on-chain market maker and further mechanism to swa
 
 ## 2. Abstract­
 
-Uniswap has been used for swap tokens for a few years on Ethereum. This KIP defines native transactions to support uniswap feature on OKExChain, and also proposes the basic DeFi infrastructure and procedure to use on-chain market maker for different KIP2 token swap feature.
+Uniswap has been used for swap tokens for a few years on Ethereum. This KIP defines native transactions to support uniswap feature on OEC, and also proposes the basic DeFi infrastructure and procedure to use on-chain market maker for different KIP2 token swap feature.
 
 ## 3. Status
 
@@ -21,18 +21,18 @@ This KIP is under implementation.
 
 ## 4. Motivation
 
-OKExChain has a high efficiency asset Exchange processing by Dex module. However, there are major cases cannot satisfied by Dex itself:
+OEC has a high efficiency asset Exchange processing by Dex module. However, there are major cases cannot satisfied by Dex itself:
 
 1. Assets market maker serve as liquidity provider there is a cost for Dex. 
 2. Assets orders handle cost a lot compute and storage resources on-chain.
 
-For more options market maker  can choose to have benefits on OKExChain. One can add liquidity on OKExChain to reap the benefits and swap tokens without wait. Many new requirements are imposed for such model:
+For more options market maker  can choose to have benefits on OEC. One can add liquidity on OEC to reap the benefits and swap tokens without wait. Many new requirements are imposed for such model:
 
 1. Listing token should on low fees.
 2. There should be an easy way for users to swap token immediately.
 3.  There should generate a pool token for users who add liquidity on it, and keep pool token normal on KIP2 standards. 
 
-The KIP is to conclude above target, the standard infrastructure and procedure proposed to empower the DeFi with OKExChain.
+The KIP is to conclude above target, the standard infrastructure and procedure proposed to empower the DeFi with OEC.
 
 ## 5. Specification
 
@@ -51,13 +51,13 @@ The KIP is to conclude above target, the standard infrastructure and procedure p
 
 #### 5.3.1 Create Exchange
 
-Create Exchange is to create new token pair and associate with assets pool on OKExChain. The new assets pool mortgage assets and charge to the token pair account.
+Create Exchange is to create new token pair and associate with assets pool on OEC. The new assets pool mortgage assets and charge to the token pair account.
 
 **Message Structure for Create Exchange**: A data structure is needed to represent the create exchange operation:
 
 | **Field** | **Type** | **Description**                                              |
 | --------- | -------- | ------------------------------------------------------------ |
-| Token     | string   | Name of the newly token pair exchange, limited to 32 unicode characters, the constraint limited by KIP2 token name，only allowed for those tokens already exist on OKExChain. |
+| Token     | string   | Name of the newly token pair exchange, limited to 32 unicode characters, the constraint limited by KIP2 token name，only allowed for those tokens already exist on OEC. |
 
 **Pool Token Symbol Convention:**
 
@@ -67,12 +67,12 @@ Explanations: There should be an additional preffix of "KIP3". It helps to disti
 
 **Create Exchange Process:**
 
-- Initiators of Exchange creation sign a create exchange transaction and make it broadcasted to one of OKExChain nodes
-- This OKChian node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKExChain nodes
+- Initiators of Exchange creation sign a create exchange transaction and make it broadcasted to one of OEC nodes
+- This OKChian node will check this transaction. If there is no error, then this transaction will be broadcasted to other OEC nodes
 - Create exchange transaction is committed on the blockchain by block proposer
 - Validators will verify the constraints on token name and deduct the fee from the transaction initiator’s address
 
-New pool token is generated based on the KIP3-Symbol. Token pairs info is saved on the OKExChain.
+New pool token is generated based on the KIP3-Symbol. Token pairs info is saved on the OEC.
 
 #### 5.3.2 Add Liquidity
 
@@ -90,11 +90,11 @@ Add Liquidity transaction is to send tokens from market maker’s addresses to m
 
 **Add Liquidity Process:**
 
-- Market Makers sign an Add Liquidity transaction and make it broadcasted to one of OKExChain nodes
-- The OKExChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKExChain nodes
+- Market Makers sign an Add Liquidity transaction and make it broadcasted to one of OEC nodes
+- The OEC node will check this transaction. If there is no error, then this transaction will be broadcasted to other OEC nodes
 - Add Liquidity transaction is committed on the blockchain by block proposer
 - Validators will verify the constraints on balance. The transfer tokens and fee will be deducted from the address of the transaction initiator
-- Add the tokens to the module account address. Mint pool token with the amount of Ratio of total pool assets and add to the Market Makers addresses and token pair info is updated on the OKExChain
+- Add the tokens to the module account address. Mint pool token with the amount of Ratio of total pool assets and add to the Market Makers addresses and token pair info is updated on the OEC
 
 #### 5.3.3 Remove Liquidity
 
@@ -112,11 +112,11 @@ Remove Liquidity transaction is to send pool tokens from market makers addresses
 
 **Remove Liquidity Process:**
 
-- Market Makers sign a Remove Liquidity transaction and make it broadcasted to one of OKExChain nodes
-- The OKExChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKExChain nodes
+- Market Makers sign a Remove Liquidity transaction and make it broadcasted to one of OEC nodes
+- The OEC node will check this transaction. If there is no error, then this transaction will be broadcasted to other OEC nodes
 - Remove Liquidity transaction is committed on the blockchain by block proposer
 - Validators will verify the constraints on balance. The transfer tokens and fee will be deducted from the address of transaction initiator
-- Burned pool token are deducted from the address of the token owner. Add the tokens amount is Ratio of total pool assets to the Market Makers addresses and token pairs info is updated on the OKExChain
+- Burned pool token are deducted from the address of the token owner. Add the tokens amount is Ratio of total pool assets to the Market Makers addresses and token pairs info is updated on the OEC
 
 #### 5.3.4 Swap Token
 
@@ -134,8 +134,8 @@ Swap Token transaction is exchange one kind of token to another.
 
 **Swap Token Process:**
 
-- Address-holder sign a swap token transaction and make it broadcasted to one of OKExChain nodes
-- The OKExChain node will check this transaction. If there is no error, then this transaction will be broadcasted to other OKExChain nodes
+- Address-holder sign a swap token transaction and make it broadcasted to one of OEC nodes
+- The OEC node will check this transaction. If there is no error, then this transaction will be broadcasted to other OEC nodes
 - Swap token transaction is committed on the blockchain by block proposer
 - Validators will verify the constraints on balance. The sold tokens and fee will be deducted from the address of transaction initiator
 - Add the bought tokens to the transaction initiator's address or recipient address if it's accomplished. 

@@ -19,11 +19,11 @@ Web Site：[https://www.chainsguard.com/](https://www.chainsguard.com/)
 
 ## 2. Summary
 
-This KIP aims to provide a secure mobile wallet solution for OKExChain ecology.
+This KIP aims to provide a secure mobile wallet solution for OEC ecology.
 
 ## 3. Proposal
 
-ChainsGuard is going to provide an open source, secure, and convenient cold wallet mobile application to solve the needs of OKExChain eco-users to make transfer transactions and contract calls on the mobile side. The wallet app use Beijing ChainsGuard security components to protect users' assets.
+ChainsGuard is going to provide an open source, secure, and convenient cold wallet mobile application to solve the needs of OEC eco-users to make transfer transactions and contract calls on the mobile side. The wallet app use Beijing ChainsGuard security components to protect users' assets.
 
 ## 4. Sources Code
 [chainsguard-wallet](https://github.com/i11m20n/chainsguard-wallet)

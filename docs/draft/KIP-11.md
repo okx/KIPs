@@ -1,4 +1,4 @@
-# KIP-11: OKExChain Rust SDK
+# KIP-11: OEC Rust SDK
 
 | Author   | Jihui Zheng (@zjhmale) |
 | :------- | ---------------------- |
@@ -11,7 +11,7 @@
 
 Rust is widely used in cryptocurrency world including blockchain system, exchange matching engine, smart contract etc.
 
-This KIP is intend to develop a fully functional SDK for OKExChain base on Rust.
+This KIP is intend to develop a fully functional SDK for OEC base on Rust.
 
 The project:
 
@@ -23,7 +23,7 @@ Video demo:
 
 ## Proposal
 
-Basiclly, the development will follow [OKExChain HTTP API](https://documenter.getpostman.com/view/1112175/SzS5u6bE?version=latest#f5bc92c9-4e8c-40f5-b3fe-d9635c418402).
+Basiclly, the development will follow [OEC HTTP API](https://documenter.getpostman.com/view/1112175/SzS5u6bE?version=latest#f5bc92c9-4e8c-40f5-b3fe-d9635c418402).
 
 Additionally, will use the existed Go and Java SDK as references.
 
